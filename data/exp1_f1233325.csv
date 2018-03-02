@@ -1,0 +1,1077 @@
+_unit_id,_created_at,_id,_started_at,_tainted,_channel,_trust,_worker_id,_country,_region,_city,_ip,browser,feedback,feeling_danger,feeling_none,feeling_warning,imageorder,income,indebt,naam,nobuyreason,pageorder,product,regret,s_danger,s_none,s_warning,scenario_danger,scenario_none,scenario_warning,scenarioorder,spam,time_danger,time_none,time_pre,time_warning,warnings
+1579177886,2/7/2018 11:53:15,3344052437,2/7/2018 11:51:16,False,elite,0.8855,43670571,GBR,0,0,0,0,,ontevreden,schuldig,opgelucht,"2,1,3",2,eens,0,"irresponsible
+nointerest","4,3,2",clothing,eens,cancel4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,22.0,17.0,25.0,24.0,ja
+1579177886,2/7/2018 12:55:44,3344183239,2/7/2018 12:53:07,False,elite,0.7932,43880998,GBR,0,0,0,0,,verdrietig,opgewonden,verdrietig,"1,3,2",0,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,10.0,19.0,79.0,16.0,ja
+1579177886,2/7/2018 13:25:33,3344237389,2/7/2018 13:24:31,False,prodege,0.7318,36524052,CAN,0,0,0,0,,opgelucht,opgelucht,opgelucht,"2,1,3",4,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,12.0,5.0,15.0,9.0,ja
+1579177886,2/7/2018 13:46:02,3344273094,2/7/2018 13:39:29,False,bitcoinget,0.6256,44091788,USA,0,0,0,0,,blij,"blij
+opgewonden",tevreden,"3,1,2",2,eens,0,irresponsible,"2,3,4",clothing,oneens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,14.0,12.0,304.0,18.0,nee
+1579177886,2/7/2018 14:01:29,3344302979,2/7/2018 13:59:56,False,neodev,0.7485,44218005,USA,0,0,0,0,no,tevreden,tevreden,tevreden,"2,1,3",2,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,14.0,7.0,27.0,12.0,ja
+1579177886,2/7/2018 14:21:47,3344346395,2/7/2018 14:14:43,False,gifthunterclub,0.7048,43703523,USA,0,0,0,0,,"boos
+ontevreden","tevreden
+blij
+opgewonden","blij
+opgewonden
+opgelucht
+schuldig","1,2,3",2,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,20.0,13.0,343.0,16.0,ja
+1579177886,2/7/2018 14:23:45,3344350848,2/7/2018 14:21:34,False,elite,0.6729,44109895,USA,0,0,0,0,,verdrietig,blij,"tevreden
+blij","2,1,3",1,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,31.0,10.0,32.0,21.0,nee
+1579177886,2/7/2018 14:29:19,3344365900,2/7/2018 14:27:24,False,earnably,0.675,41499434,GBR,0,0,0,0,Good idea to warn about bank balances but sometimes we just want something!,"opgelucht
+ontevreden
+beschaamd","blij
+opgewonden
+schuldig","tevreden
+opgelucht
+schuldig","2,1,3",2,oneens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,12.0,15.0,16.0,22.0,ja
+1579177886,2/7/2018 14:31:05,3344370253,2/7/2018 14:27:48,False,clixsense,0.6533,36313199,CAN,0,0,0,0,I would like to be able to scan the purchase and know if I could afford it before being at the cashier when that would be odd to cancel the purchase on the spot,"ontevreden
+bezorgd",ontevreden,"ontevreden
+bezorgd","1,2,3",4,weetniet,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,35.0,33.0,29.0,20.0,ja
+1579177886,2/7/2018 14:37:28,3344384144,2/7/2018 14:35:56,False,instagc,0.7659,35903629,GBR,0,0,0,0,,opgelucht,opgewonden,opgelucht,"2,3,1",0,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,22.0,12.0,15.0,25.0,ja
+1579177886,2/7/2018 14:44:50,3344406401,2/7/2018 14:42:15,False,instagc,0.7107,35408915,USA,0,0,0,0,No,"boos
+ontevreden
+beschaamd","boos
+ontevreden
+beschaamd","boos
+ontevreden
+beschaamd","3,2,1",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,29.0,23.0,52.0,23.0,ja
+1579177886,2/7/2018 14:45:24,3344407825,2/7/2018 14:38:23,False,clixsense,0.741,16712241,USA,0,0,0,0,good homework helps me understand that I should check my accounts,beschaamd,"blij
+verdrietig","ontevreden
+verdrietig
+beschaamd","3,1,2",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,51.0,3.0,90.0,37.0,ja
+1579177886,2/7/2018 14:46:31,3344410614,2/7/2018 14:40:52,False,instagc,0.725,19838540,USA,0,0,0,0,,opgelucht,"ontevreden
+verdrietig","ontevreden
+verdrietig","1,3,2",2,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,77.0,51.0,43.0,76.0,ja
+1579177886,2/7/2018 14:57:10,3344439524,2/7/2018 14:53:53,False,clixsense,0.7318,6338946,CAN,0,0,0,0,There was a picture of the boots but not the shoes.,ontevreden,"tevreden
+blij","blij
+opgelucht","1,2,3",1,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,27.0,27.0,44.0,41.0,ja
+1579177886,2/7/2018 15:51:53,3344564273,2/7/2018 15:43:18,False,elite,0.7551,44229653,USA,0,0,0,0,I think all payment systems should have alerts like in this task.,"ontevreden
+verdrietig
+beschaamd",bezorgd,"bezorgd
+schuldig","2,3,1",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,25.0,33.0,329.0,30.0,ja
+1579177886,2/7/2018 16:03:02,3344585638,2/7/2018 16:00:10,False,neodev,0.7041,44136445,USA,0,0,0,0,,boos,boos,verdrietig,"3,2,1",0,eens,0,irresponsible,"3,2,4",electronics,oneens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,13.0,24.0,44.0,45.0,ja
+1579177886,2/7/2018 16:23:44,3344627787,2/7/2018 16:15:10,False,neodev,0.7348,43959305,USA,0,0,0,0,,beschaamd,opgelucht,blij,"3,1,2",1,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,51.0,268.0,23.0,61.0,ja
+1579177886,2/7/2018 16:44:10,3344667376,2/7/2018 16:36:02,False,clixsense,0.7170000000000001,28891416,USA,0,0,0,0,No.,weetniet,ontevreden,weetniet,"2,1,3",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,34.0,54.0,136.0,143.0,nee
+1579177886,2/7/2018 16:44:54,3344668941,2/7/2018 16:40:44,False,elite,0.7856,44305715,USA,0,0,0,0,,verdrietig,blij,tevreden,"3,2,1",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,24.0,22.0,98.0,24.0,ja
+1579177886,2/7/2018 16:49:07,3344678718,2/7/2018 16:40:13,False,keeprewarding,0.782,42313097,CAN,0,0,0,0,no other feedback,ontevreden,bezorgd,ontevreden,"3,2,1",2,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,96.0,107.0,149.0,48.0,ja
+1579177886,2/7/2018 17:00:03,3344714057,2/7/2018 16:57:36,False,clixsense,0.6877,34713230,GBR,0,0,0,0,None,bezorgd,blij,tevreden,"2,3,1",2,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,32.0,24.0,35.0,21.0,weetniet
+1579177886,2/7/2018 17:08:10,3344733442,2/7/2018 17:07:03,False,elite,0.5526,44102942,USA,0,0,0,0,,opgewonden,opgewonden,blij,"1,2,3",0,weetniet,0,nvt,"2,4,3",clothing,weetniet,submit4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,7.0,4.0,21.0,5.0,ja
+1579177886,2/7/2018 17:10:22,3344738691,2/7/2018 17:07:44,False,neodev,0.6627,36266493,USA,0,0,0,0,Thanks...,weetniet,weetniet,weetniet,"2,1,3",0,eens,0,nointerest,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,13.0,45.0,20.0,13.0,weetniet
+1579177886,2/7/2018 17:37:33,3344803314,2/7/2018 17:34:21,False,elite,0.7749,30312592,CAN,0,0,0,0,It was interesting.,ontevreden,bezorgd,ontevreden,"2,3,1",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,29.0,36.0,59.0,22.0,ja
+1579177886,2/7/2018 17:37:58,3344804148,2/7/2018 17:35:23,False,instagc,0.6536,18720630,GBR,0,0,0,0,,"ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig","tevreden
+blij
+opgewonden","bezorgd
+beschaamd
+schuldig","2,3,1",1,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,26.0,25.0,27.0,43.0,ja
+1579177886,2/7/2018 17:51:42,3344838506,2/7/2018 17:49:40,False,prodege,0.7020000000000001,17770792,USA,0,0,0,0,,opgelucht,opgelucht,bezorgd,"2,3,1",4,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,20.0,36.0,16.0,22.0,nee
+1579177886,2/7/2018 17:53:08,3344842462,2/7/2018 17:48:55,False,gifthunterclub,0.6896,44303332,USA,0,0,0,0,,"boos
+ontevreden",tevreden,tevreden,"1,2,3",3,oneens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,16.0,16.0,41.0,127.0,ja
+1579177886,2/7/2018 18:23:11,3344904811,2/7/2018 18:13:37,False,neodev,0.7226,31847776,USA,0,0,0,0,i not,weetniet,"tevreden
+blij
+opgewonden","tevreden
+blij","2,3,1",2,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,13.0,10.0,295.0,133.0,ja
+1579177886,2/7/2018 18:44:59,3344947799,2/7/2018 18:42:47,False,prodege,0.7447,29197974,USA,0,0,0,0,,tevreden,opgelucht,opgewonden,"1,2,3",1,eens,0,"irresponsible
+nointerest","3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,21.0,28.0,27.0,12.0,ja
+1579177886,2/7/2018 18:46:23,3344950691,2/7/2018 18:44:40,False,neodev,0.6361,11014811,GBR,0,0,0,0,,opgelucht,opgelucht,opgelucht,"1,2,3",2,eens,0,nointerest,"3,2,4",clothing,oneens,submit4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,5.0,25.0,10.0,22.0,ja
+1579177886,2/7/2018 18:47:20,3344952720,2/7/2018 18:36:00,False,elite,0.6428,44275488,USA,0,0,0,0,,verdrietig,verdrietig,weetniet,"3,2,1",0,eens,0,nointerest,"2,3,4",clothing,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,12.0,54.0,539.0,32.0,nee
+1579177886,2/7/2018 19:02:17,3344983547,2/7/2018 18:56:06,False,neodev,0.643,44104931,USA,0,0,0,0,no,ontevreden,tevreden,weetniet,"3,1,2",0,eens,0,nointerest,"2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,15.0,9.0,180.0,20.0,weetniet
+1579177886,2/7/2018 19:53:22,3345085696,2/7/2018 19:50:31,False,instagc,0.737,23287154,USA,0,0,0,0,Seems all the questions had things to buy that involved an account with low funds. Maybe a control question where the user had enough money would be nice.,bezorgd,"bezorgd
+beschaamd","bezorgd
+beschaamd
+schuldig","2,1,3",2,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,24.0,30.0,24.0,17.0,ja
+1579177886,2/7/2018 20:21:32,3345145263,2/7/2018 20:18:18,False,neodev,0.6199,43942107,USA,0,0,0,0,,"boos
+ontevreden","tevreden
+blij",blij,"2,3,1",1,oneens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,20.0,37.0,61.0,19.0,nee
+1579177886,2/7/2018 20:27:09,3345157721,2/7/2018 20:20:12,False,prodege,0.6938,1853182,USA,0,0,0,0,NO COMMENT,"verdrietig
+beschaamd",weetniet,bezorgd,"3,2,1",2,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,68.0,110.0,65.0,64.0,ja
+1579177886,2/7/2018 20:55:15,3345243106,2/7/2018 20:52:20,False,instagc,0.7152,39396078,USA,0,0,0,0,,"ontevreden
+verdrietig
+beschaamd","tevreden
+blij",tevreden,"1,3,2",3,eens,0,"irresponsible
+nointerest","2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,25.0,50.0,37.0,27.0,ja
+1579177886,2/7/2018 21:34:16,3345344989,2/7/2018 21:29:10,False,clixsense,0.7242,6351580,CAN,0,0,0,0,no,opgelucht,opgelucht,opgelucht,"3,1,2",1,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,56.0,58.0,63.0,78.0,ja
+1579177886,2/7/2018 21:41:25,3345369168,2/7/2018 21:39:35,False,elite,0.7129,26332156,CAN,0,0,0,0,,beschaamd,bezorgd,opgelucht,"2,3,1",4,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,19.0,18.0,17.0,32.0,ja
+1579177886,2/7/2018 22:09:38,3345439851,2/7/2018 22:06:27,False,neodev,0.7465,13253916,GBR,0,0,0,0,ALL ITEMS CHEAPER THAN STATED SO I BELIEVED I WAS GETTING BARGAINS BIG TIME,"ontevreden
+verdrietig","tevreden
+blij","tevreden
+blij
+opgewonden
+schuldig","3,1,2",2,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,37.0,35.0,29.0,21.0,ja
+1579177886,2/7/2018 22:44:17,3345534126,2/7/2018 22:37:13,False,neodev,0.7004,44121414,USA,0,0,0,0,,opgelucht,bezorgd,bezorgd,"2,3,1",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,16.0,39.0,334.0,16.0,ja
+1579177886,2/7/2018 22:59:37,3345568345,2/7/2018 22:56:13,False,prodege,0.746,6309240,USA,0,0,0,0,,beschaamd,ontevreden,ontevreden,"2,1,3",4,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,19.0,33.0,16.0,106.0,ja
+1579177886,2/7/2018 23:13:08,3345601720,2/7/2018 23:08:46,False,instagc,0.7518,28504546,USA,0,0,0,0,none,verdrietig,"tevreden
+blij
+opgelucht","ontevreden
+beschaamd","3,2,1",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,57.0,6.0,19.0,43.0,ja
+1579177886,2/7/2018 23:20:18,3345620766,2/7/2018 23:18:31,False,instagc,0.6498,18985376,GBR,0,0,0,0,,ontevreden,verdrietig,verdrietig,"1,3,2",0,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,13.0,14.0,30.0,25.0,nee
+1579177886,2/7/2018 23:29:47,3345646434,2/7/2018 23:28:40,False,tremorgames,0.7465,36430872,USA,0,0,0,0,,"ontevreden
+bezorgd
+verdrietig","tevreden
+blij
+opgewonden","ontevreden
+verdrietig","2,3,1",2,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,9.0,9.0,15.0,18.0,ja
+1579177886,2/8/2018 00:27:45,3345775009,2/8/2018 00:24:04,False,prodege,0.6496,4338784,CAN,0,0,0,0,,schuldig,weetniet,"boos
+bezorgd","2,3,1",4,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,27.0,51.0,51.0,60.0,nee
+1579177886,2/8/2018 00:34:27,3345789372,2/8/2018 00:29:52,False,prodege,0.6138,19398744,USA,0,0,0,0,,"blij
+opgewonden","ontevreden
+verdrietig","blij
+opgewonden
+schuldig","2,1,3",3,eens,0,nointerest,"3,4,2",tickets,eens,submit4,cancel2,submit3,2.0,3.0,4.0,"2,0,1",0,85.0,36.0,78.0,30.0,ja
+1579177886,2/8/2018 01:01:57,3345842483,2/8/2018 00:57:26,False,prodege,0.7333,1944668,USA,0,0,0,0,"I dont need to be warned about whether or not I am being irresponsible, but I appreciated being told there was not enough in my account to complete the transaction","ontevreden
+bezorgd","tevreden
+blij
+opgewonden","tevreden
+opgewonden","1,2,3",4,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,79.0,24.0,39.0,48.0,ja
+1579177886,2/8/2018 01:02:23,3345843671,2/8/2018 00:58:28,False,clixsense,0.6463,19495345,USA,0,0,0,0,,tevreden,"tevreden
+schuldig",tevreden,"3,1,2",3,eens,0,irresponsible,"4,2,3",clothing,oneens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,29.0,40.0,51.0,78.0,ja
+1579177886,2/8/2018 01:46:49,3345935461,2/8/2018 01:44:47,False,prodege,0.7639,20747233,CAN,0,0,0,0,,opgelucht,tevreden,tevreden,"1,2,3",0,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,19.0,25.0,19.0,23.0,ja
+1579177886,2/8/2018 01:51:23,3345943492,2/8/2018 01:47:34,False,prodege,0.6613,44197585,USA,0,0,0,0,thank you,bezorgd,tevreden,boos,"2,1,3",2,oneens,0,nvt,"4,3,2",electronics,eens,submit4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,49.0,34.0,27.0,62.0,ja
+1579177886,2/8/2018 02:03:19,3345964446,2/8/2018 01:58:33,False,neodev,0.6553,11659309,USA,0,0,0,0,"An unbiased, neutral balance reminder may help keep people more financially responsible.  Good idea","opgelucht
+bezorgd
+verdrietig","tevreden
+blij
+opgewonden","opgelucht
+ontevreden
+bezorgd","3,1,2",4,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,21.0,36.0,35.0,31.0,ja
+1579177886,2/8/2018 02:29:02,3346008595,2/8/2018 02:23:46,False,wannads,0.7695,43707962,USA,0,0,0,0,"the first two transaction I declined because I did not know how much the balance would be and if there was an interest or finance charge besides the partial upfront payment, if that info had been available I might have authorized the transaction. Obviously the third transaction showed I had insufficient funds so I knew better than to try and autorize it.",ontevreden,opgelucht,tevreden,"2,3,1",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,17.0,22.0,43.0,61.0,ja
+1579177886,2/8/2018 02:39:05,3346024028,2/8/2018 02:29:20,False,neodev,0.7084,38890127,USA,0,0,0,0,,verdrietig,blij,"ontevreden
+verdrietig","3,1,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,241.0,57.0,124.0,33.0,weetniet
+1579177886,2/8/2018 02:48:16,3346038415,2/8/2018 02:45:06,False,clixsense,0.7531,6339764,CAN,0,0,0,0,no nothing,tevreden,tevreden,tevreden,"1,2,3",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,31.0,34.0,29.0,42.0,ja
+1579177886,2/8/2018 03:02:11,3346058397,2/8/2018 02:58:29,False,elite,0.7553,36350388,USA,0,0,0,0,,opgelucht,tevreden,"opgelucht
+ontevreden","2,3,1",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,37.0,36.0,64.0,36.0,ja
+1579177886,2/8/2018 03:30:29,3346100633,2/8/2018 03:27:26,False,clixsense,0.7715,25295869,USA,0,0,0,0,No feedback.,ontevreden,ontevreden,ontevreden,"2,3,1",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,38.0,13.0,61.0,29.0,ja
+1579177886,2/8/2018 03:49:32,3346131899,2/8/2018 03:46:16,False,prodege,0.6349,39766174,CAN,0,0,0,0,,"ontevreden
+bezorgd
+verdrietig","tevreden
+blij
+opgewonden
+bezorgd
+schuldig","ontevreden
+verdrietig","1,3,2",2,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,30.0,40.0,53.0,32.0,"ja
+weetniet"
+1579177886,2/8/2018 03:59:19,3346148013,2/8/2018 03:50:34,False,instagc,0.7036,34534543,USA,0,0,0,0,this is a very interesting study,"tevreden
+opgelucht",opgelucht,"tevreden
+opgelucht","2,1,3",4,"eens
+weetniet",0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,187.0,95.0,66.0,97.0,ja
+1579177886,2/8/2018 04:17:35,3346178683,2/8/2018 04:14:06,False,neodev,0.7618,44254968,USA,0,0,0,0,Excellent task how i simulited online shop and make me feel guilty or happy,schuldig,blij,tevreden,"1,3,2",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,20.0,44.0,38.0,10.0,ja
+1579177886,2/8/2018 04:19:46,3346182369,2/8/2018 04:16:43,False,prodege,0.6896,42666992,USA,0,0,0,0,It is a helpful idea,"ontevreden
+bezorgd","blij
+opgewonden","boos
+bezorgd","3,2,1",1,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,36.0,26.0,36.0,34.0,ja
+1579177886,2/8/2018 04:24:31,3346189371,2/8/2018 04:23:00,False,wannads,0.7090000000000001,38664515,USA,0,0,0,0,none,"verdrietig
+beschaamd","boos
+ontevreden","boos
+verdrietig","3,1,2",2,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,12.0,18.0,21.0,13.0,ja
+1579177886,2/8/2018 04:28:41,3346196111,2/8/2018 04:23:52,False,clixsense,0.7276,40350551,GBR,0,0,0,0,,tevreden,"tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden","2,3,1",1,eens,0,"irresponsible
+nointerest","2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,23.0,28.0,112.0,77.0,ja
+1579177886,2/8/2018 04:43:36,3346220141,2/8/2018 04:34:19,False,neodev,0.5893,40639503,USA,0,0,0,0,No,"boos
+bezorgd
+verdrietig
+beschaamd","boos
+ontevreden
+beschaamd","ontevreden
+bezorgd
+verdrietig
+schuldig","2,1,3",3,eens,0,irresponsible,"2,3,4",clothing,weetniet,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,17.0,4.0,33.0,38.0,ja
+1579177886,2/8/2018 05:37:37,3346312471,2/8/2018 05:35:27,False,prodege,0.7105,32304353,USA,0,0,0,0,,ontevreden,"blij
+opgewonden",blij,"3,2,1",4,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,59.0,9.0,23.0,19.0,ja
+1579177886,2/8/2018 05:53:57,3346332220,2/8/2018 05:47:45,False,instagc,0.7424,34824899,USA,0,0,0,0,"It was a little confusing at first, but I understood the task as we went on. I definitely don't want to go into debt based on a luxury unnecessary purchase.",opgelucht,weetniet,weetniet,"2,3,1",3,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,27.0,30.0,27.0,32.0,ja
+1579177886,2/8/2018 05:59:56,3346339725,2/8/2018 05:57:22,False,prodege,0.6518,32094044,CAN,0,0,0,0,this would be giving way too much information to companies,weetniet,weetniet,weetniet,"3,1,2",3,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,11.0,10.0,47.0,37.0,nee
+1579177886,2/8/2018 06:59:54,3346425711,2/8/2018 06:57:06,False,instagc,0.6925,36518845,AUS,0,0,0,0,no,opgelucht,opgewonden,opgelucht,"2,3,1",1,eens,0,nointerest,"2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,16.0,65.0,21.0,15.0,ja
+1579177886,2/8/2018 07:05:44,3346433784,2/8/2018 07:03:41,False,instagc,0.7234,16715963,GBR,0,0,0,0,no,bezorgd,"tevreden
+opgelucht","ontevreden
+bezorgd","1,3,2",1,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,17.0,32.0,22.0,20.0,ja
+1579177886,2/8/2018 07:40:17,3346479767,2/8/2018 07:37:39,False,clixsense,0.6827,6352345,GBR,0,0,0,0,"interesting task, thanks...","boos
+ontevreden
+verdrietig
+beschaamd","tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden","1,2,3",4,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,36.0,22.0,23.0,27.0,ja
+1579177886,2/8/2018 08:43:01,3346557091,2/8/2018 08:41:25,False,prodege,0.6974,17356255,USA,0,0,0,0,,weetniet,weetniet,weetniet,"2,1,3",1,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,27.0,10.0,18.0,21.0,ja
+1579177886,2/8/2018 09:08:59,3346606205,2/8/2018 09:06:38,False,prodege,0.6937,23930372,GBR,0,0,0,0,,weetniet,weetniet,tevreden,"2,3,1",2,eens,0,"irresponsible
+nointerest","3,4,2",electronics,eens,cancel4,cancel2,submit3,2.0,3.0,4.0,"2,0,1",0,27.0,31.0,27.0,19.0,nee
+1579177886,2/8/2018 09:24:14,3346627750,2/8/2018 09:23:17,False,hiving,0.6159,44309696,USA,0,0,0,0,,boos,bezorgd,"ontevreden
+verdrietig
+beschaamd","1,2,3",3,eens,0,nvt,"3,4,2",electronics,oneens,submit4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,8.0,9.0,13.0,5.0,ja
+1579177886,2/8/2018 09:45:59,3346652735,2/8/2018 09:39:38,False,elite,0.7457,44114418,USA,0,0,0,0,,"tevreden
+bezorgd",tevreden,"tevreden
+verdrietig","2,1,3",0,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,27.0,30.0,246.0,33.0,ja
+1579177886,2/8/2018 09:55:59,3346663485,2/8/2018 09:51:28,False,elite,0.6957,41970037,USA,0,0,0,0,nice scenario,ontevreden,opgewonden,opgewonden,"1,3,2",0,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,28.0,40.0,70.0,71.0,ja
+1579177886,2/8/2018 12:10:33,3346894811,2/8/2018 12:03:53,False,elite,0.7613,43887010,USA,0,0,0,0,I think it's a very interesting tool.,boos,opgelucht,opgelucht,"2,1,3",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,11.0,52.0,104.0,8.0,ja
+1579177886,2/8/2018 12:28:36,3346942918,2/8/2018 12:26:56,False,clixsense,0.7302,24763049,GBR,0,0,0,0,no,weetniet,blij,tevreden,"1,2,3",2,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,16.0,16.0,25.0,18.0,ja
+1579177886,2/8/2018 12:33:14,3346967667,2/8/2018 12:31:07,False,neodev,0.6805,29096504,GBR,0,0,0,0,,bezorgd,tevreden,boos,"2,1,3",1,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,23.0,10.0,37.0,29.0,nee
+1579177886,2/8/2018 12:47:58,3347051933,2/8/2018 12:45:16,False,points2shop,0.7645,14976706,GBR,0,0,0,0,,opgelucht,opgelucht,opgelucht,"1,3,2",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,43.0,34.0,27.0,31.0,ja
+1579177886,2/8/2018 12:56:55,3347100401,2/8/2018 12:52:28,False,gifthunterclub,0.764,44030854,USA,0,0,0,0,"I think it's a very interesting tool. I do not have complexes of shame, I use my cards a lot, I do not know how much balance is left available if there is an application that tells me that I can not buy due to insufficient balance, I consider it quite informative.",opgelucht,opgelucht,opgelucht,"3,1,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,11.0,4.0,101.0,6.0,ja
+1579177886,2/8/2018 13:37:25,3347241801,2/8/2018 13:32:46,False,elite,0.7655,43912578,USA,0,0,0,0,"I think it's a very interesting tool. I do not have complexes of shame, I use my cards a lot, I do not know how much balance is left available if there is an application that tells me that I can not buy due to insufficient balance, I consider it quite informative.",opgelucht,opgelucht,opgelucht,"3,1,2",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,10.0,4.0,14.0,5.0,ja
+1579177886,2/8/2018 13:37:50,3347243684,2/8/2018 13:34:58,False,neodev,0.7197,44269480,USA,0,0,0,0,,"opgelucht
+ontevreden",tevreden,"ontevreden
+verdrietig
+beschaamd","2,3,1",1,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,21.0,30.0,33.0,27.0,ja
+1579177886,2/8/2018 14:35:40,3347423060,2/8/2018 14:32:05,False,clixsense,0.7315,29155723,GBR,0,0,0,0,,opgelucht,blij,bezorgd,"2,1,3",1,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,36.0,33.0,35.0,49.0,ja
+1579177886,2/8/2018 15:00:10,3347499874,2/8/2018 14:57:36,False,instagc,0.7701,38042052,GBR,0,0,0,0,Nice and clear instructions,ontevreden,ontevreden,verdrietig,"2,3,1",2,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,31.0,33.0,29.0,25.0,ja
+1579177886,2/8/2018 15:10:25,3347521382,2/8/2018 15:01:22,False,elite,0.6096,43962029,USA,0,0,0,0,I really liked this survey,"boos
+schuldig","boos
+bezorgd
+verdrietig
+schuldig","boos
+schuldig","2,3,1",1,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,47.0,43.0,116.0,99.0,nee
+1579177886,2/8/2018 15:11:05,3347523705,2/8/2018 15:01:23,False,gifthunterclub,0.7296,39504972,USA,0,0,0,0,,"opgelucht
+bezorgd
+beschaamd","tevreden
+blij
+opgelucht","opgewonden
+opgelucht
+verdrietig","2,3,1",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,45.0,43.0,403.0,41.0,ja
+1579177886,2/8/2018 15:25:39,3347571500,2/8/2018 15:18:08,False,bitcoinget,0.7558,43802422,USA,0,0,0,0,,verdrietig,verdrietig,tevreden,"3,1,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,79.0,106.0,127.0,51.0,ja
+1579177886,2/8/2018 15:29:13,3347580093,2/8/2018 15:24:55,False,instagc,0.7464,43292154,USA,0,0,0,0,,boos,ontevreden,verdrietig,"1,3,2",3,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,36.0,47.0,28.0,90.0,ja
+1579177886,2/8/2018 15:42:27,3347611213,2/8/2018 15:38:55,False,prodege,0.758,38198526,USA,0,0,0,0,no,"ontevreden
+beschaamd",blij,"bezorgd
+verdrietig","3,1,2",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,23.0,32.0,21.0,43.0,ja
+1579177886,2/8/2018 15:47:24,3347626990,2/8/2018 15:44:22,False,neodev,0.6551,42145897,CAN,0,0,0,0,,schuldig,weetniet,tevreden,"1,3,2",3,eens,0,irresponsible,"4,2,3",clothing,eens,submit4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,23.0,14.0,76.0,41.0,weetniet
+1579177886,2/8/2018 17:06:02,3347832391,2/8/2018 17:02:56,False,elite,0.6884,43929227,USA,0,0,0,0,,"ontevreden
+verdrietig
+beschaamd","ontevreden
+bezorgd
+verdrietig
+beschaamd","boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd","1,2,3",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,37.0,49.0,19.0,33.0,ja
+1579177886,2/8/2018 17:32:02,3347905572,2/8/2018 17:30:14,False,bitcoinget,0.6990000000000001,44096379,USA,0,0,0,0,no,tevreden,tevreden,tevreden,"2,3,1",2,eens,0,nointerest,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,9.0,10.0,30.0,17.0,ja
+1579177886,2/8/2018 17:49:31,3347943974,2/8/2018 17:48:02,False,elite,0.7214,44305965,CAN,0,0,0,0,,schuldig,tevreden,opgewonden,"1,2,3",0,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,14.0,18.0,12.0,22.0,ja
+1579177886,2/8/2018 17:51:32,3347948029,2/8/2018 17:46:00,False,elite,0.7004,44113725,USA,0,0,0,0,"Nothing, thank you.","boos
+bezorgd
+verdrietig","tevreden
+blij","boos
+verdrietig","2,3,1",0,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,46.0,61.0,67.0,52.0,ja
+1579177886,2/8/2018 18:22:24,3348016563,2/8/2018 18:19:48,False,instagc,0.7609,30451977,USA,0,0,0,0,,ontevreden,"bezorgd
+schuldig",verdrietig,"2,1,3",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,30.0,28.0,43.0,26.0,ja
+1579177886,2/8/2018 18:49:38,3348068224,2/8/2018 18:46:18,False,gifthunterclub,0.7148,34152328,USA,0,0,0,0,,tevreden,weetniet,verdrietig,"2,1,3",3,eens,0,irresponsible,"2,3,4",clothing,eens,submit4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,13.0,19.0,36.0,21.0,ja
+1579177886,2/8/2018 19:57:34,3348234177,2/8/2018 19:55:22,False,elite,0.7656,44038146,USA,0,0,0,0,no,verdrietig,opgewonden,beschaamd,"3,2,1",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,33.0,16.0,34.0,11.0,ja
+1579177886,2/8/2018 20:47:46,3348387596,2/8/2018 20:45:38,False,instagc,0.6449,35154350,USA,0,0,0,0,no,"opgelucht
+ontevreden
+verdrietig
+beschaamd","opgelucht
+beschaamd","tevreden
+opgelucht
+beschaamd","3,2,1",1,eens,0,"irresponsible
+nointerest","3,4,2",electronics,oneens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,48.0,15.0,19.0,17.0,ja
+1579177886,2/8/2018 20:55:01,3348405624,2/8/2018 20:52:50,False,instagc,0.6558,19602039,USA,0,0,0,0,no,blij,opgelucht,opgewonden,"1,3,2",4,eens,0,nointerest,"4,3,2",electronics,eens,submit4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,22.0,13.0,59.0,11.0,nee
+1579177886,2/8/2018 21:03:53,3348428003,2/8/2018 21:00:39,False,bitcoinget,0.6827,43842980,USA,0,0,0,0,,"opgelucht
+verdrietig
+beschaamd","tevreden
+blij","opgelucht
+boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd","3,1,2",2,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,18.0,35.0,58.0,22.0,ja
+1579177886,2/8/2018 21:09:29,3348440391,2/8/2018 21:05:07,False,clixsense,0.7007,23144069,GBR,0,0,0,0,,"ontevreden
+bezorgd
+verdrietig",verdrietig,opgewonden,"1,3,2",1,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,28.0,66.0,64.0,50.0,ja
+1579177886,2/8/2018 21:25:35,3348473504,2/8/2018 21:23:05,False,elite,0.7097,44180381,USA,0,0,0,0,,"boos
+bezorgd",boos,boos,"1,2,3",0,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,13.0,30.0,36.0,22.0,ja
+1579177886,2/8/2018 21:31:43,3348486477,2/8/2018 21:29:51,False,instagc,0.7107,35062592,USA,0,0,0,0,,ontevreden,tevreden,bezorgd,"1,3,2",0,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,19.0,25.0,20.0,19.0,nee
+1579177886,2/8/2018 21:37:47,3348499594,2/8/2018 21:34:19,False,instagc,0.7718,27967887,USA,0,0,0,0,,opgelucht,tevreden,opgelucht,"2,1,3",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,65.0,23.0,37.0,37.0,ja
+1579177886,2/8/2018 22:59:17,3348682920,2/8/2018 22:57:12,False,prodege,0.7433,7111544,GBR,0,0,0,0,,verdrietig,blij,ontevreden,"1,2,3",1,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,27.0,23.0,18.0,28.0,ja
+1579177886,2/8/2018 23:22:40,3348728775,2/8/2018 23:20:15,False,prodege,0.6448,10953925,CAN,0,0,0,0,,verdrietig,blij,opgewonden,"2,1,3",3,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,27.0,18.0,26.0,44.0,nee
+1579177886,2/8/2018 23:30:00,3348744347,2/8/2018 23:28:19,False,eup_slw,0.7501,37465804,USA,0,0,0,0,,verdrietig,verdrietig,verdrietig,"2,3,1",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,20.0,27.0,15.0,7.0,ja
+1579177886,2/9/2018 00:08:03,3348826091,2/9/2018 00:05:02,False,neodev,0.7749,15366051,CAN,0,0,0,0,no thank you.,verdrietig,blij,blij,"3,2,1",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,24.0,31.0,43.0,42.0,ja
+1579177886,2/9/2018 00:57:14,3348908972,2/9/2018 00:54:56,False,elite,0.7313,44208761,USA,0,0,0,0,Perhaps different scenarios. More than three. Perhaps one where I could afford it and see if I would still buy it.,"verdrietig
+beschaamd
+schuldig","bezorgd
+schuldig","verdrietig
+beschaamd
+schuldig","3,2,1",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,13.0,8.0,9.0,43.0,ja
+1579177886,2/9/2018 01:44:35,3349007380,2/9/2018 01:40:34,False,neodev,0.674,41127744,USA,0,0,0,0,,boos,verdrietig,ontevreden,"3,1,2",3,eens,0,nointerest,"4,3,2",clothing,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,52.0,71.0,33.0,39.0,ja
+1579177886,2/9/2018 02:12:31,3349065909,2/9/2018 02:08:04,False,elite,0.7207,43963612,USA,0,0,0,0,,"ontevreden
+beschaamd","boos
+ontevreden
+beschaamd","boos
+ontevreden","2,1,3",4,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,30.0,19.0,79.0,43.0,ja
+1579177886,2/9/2018 02:24:32,3349086970,2/9/2018 02:23:39,False,prizerebel,0.7549,44246595,CAN,0,0,0,0,,opgelucht,blij,opgelucht,"2,3,1",3,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,5.0,15.0,11.0,9.0,ja
+1579177886,2/9/2018 03:01:17,3349146414,2/9/2018 02:59:56,False,prodege,0.7117,28137606,USA,0,0,0,0,,bezorgd,opgewonden,blij,"3,2,1",3,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,13.0,4.0,42.0,6.0,ja
+1579177886,2/9/2018 03:21:42,3349182115,2/9/2018 03:18:33,False,bitcoinget,0.7204,21490602,USA,0,0,0,0,,"ontevreden
+bezorgd
+verdrietig",bezorgd,bezorgd,"2,1,3",2,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,21.0,27.0,65.0,38.0,ja
+1579177886,2/9/2018 03:32:20,3349201316,2/9/2018 03:30:57,False,instagc,0.7477,16469970,USA,0,0,0,0,,schuldig,beschaamd,verdrietig,"3,2,1",4,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,14.0,9.0,19.0,22.0,ja
+1579177886,2/9/2018 04:19:50,3349276358,2/9/2018 04:17:05,False,elite,0.603,43730224,GBR,0,0,0,0,,boos,boos,boos,"1,3,2",1,oneens,0,nointerest,"3,4,2",electronics,oneens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,5.0,6.0,135.0,4.0,ja
+1579177886,2/9/2018 05:03:00,3349348396,2/9/2018 04:58:57,False,prodege,0.7414,40546641,USA,0,0,0,0,,ontevreden,tevreden,tevreden,"3,1,2",0,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,23.0,72.0,69.0,42.0,ja
+1579177886,2/9/2018 05:17:05,3349368291,2/9/2018 05:13:10,False,clixsense,0.7422,14442210,USA,0,0,0,0,,beschaamd,"verdrietig
+beschaamd",bezorgd,"1,2,3",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,31.0,28.0,83.0,56.0,ja
+1579177886,2/9/2018 06:03:36,3349430540,2/9/2018 06:02:42,False,clixsense,0.7389,30130805,USA,0,0,0,0,,verdrietig,opgelucht,tevreden,"3,1,2",0,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,4.0,14.0,8.0,15.0,ja
+1579177886,2/9/2018 06:27:57,3349471243,2/9/2018 06:20:31,False,neodev,0.705,44110677,USA,0,0,0,0,none,"ontevreden
+verdrietig","bezorgd
+verdrietig","boos
+ontevreden
+bezorgd","2,1,3",4,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,20.0,6.0,245.0,17.0,ja
+1579177886,2/9/2018 08:02:50,3349601132,2/9/2018 08:01:22,False,prodege,0.7012,35229868,USA,0,0,0,0,,beschaamd,opgewonden,bezorgd,"3,1,2",4,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,15.0,14.0,14.0,28.0,ja
+1579177886,2/9/2018 09:38:20,3349728757,2/9/2018 09:35:34,False,prodege,0.6546,21813440,GBR,0,0,0,0,,"ontevreden
+verdrietig","tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden","1,2,3",0,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,22.0,26.0,61.0,26.0,ja
+1579177886,2/9/2018 09:57:26,3349753900,2/9/2018 09:53:58,False,prodege,0.6511,18380486,GBR,0,0,0,0,,"ontevreden
+beschaamd
+schuldig","opgelucht
+boos","opgelucht
+boos
+bezorgd","3,1,2",3,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,32.0,35.0,71.0,40.0,weetniet
+1579177886,2/9/2018 10:03:37,3349759650,2/9/2018 09:52:01,False,neodev,0.7064,40206876,USA,0,0,0,0,,opgelucht,opgelucht,opgelucht,"1,2,3",3,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,49.0,70.0,181.0,126.0,ja
+1579177886,2/9/2018 10:45:00,3349809180,2/9/2018 10:43:49,False,clixsense,0.6567,36929821,GBR,0,0,0,0,,ontevreden,ontevreden,ontevreden,"2,1,3",1,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,14.0,17.0,13.0,9.0,nee
+1579177886,2/9/2018 14:05:40,3350150130,2/9/2018 14:03:43,False,clixsense,0.7067,19941915,GBR,0,0,0,0,,bezorgd,schuldig,schuldig,"1,2,3",1,eens,0,nvt,"3,2,4",electronics,eens,submit4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,19.0,13.0,26.0,30.0,ja
+1579177886,2/9/2018 15:32:07,3350364892,2/9/2018 15:27:31,False,elite,0.7434,44226518,USA,0,0,0,0,all fine,verdrietig,blij,tevreden,"3,2,1",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,42.0,13.0,90.0,3.0,ja
+1579177886,2/9/2018 15:38:12,3350382607,2/9/2018 15:35:59,False,instagc,0.5694,21467491,USA,0,0,0,0,,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd","tevreden
+opgewonden","opgewonden
+schuldig","2,1,3",0,oneens,0,irresponsible,"4,2,3",clothing,oneens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,29.0,26.0,16.0,23.0,ja
+1579177886,2/9/2018 16:15:53,3350478933,2/9/2018 16:14:53,False,instagc,0.6541,39487239,USA,0,0,0,0,"I would put a purchase like this on a credit card, so this feature is irrelevant to me.",weetniet,weetniet,weetniet,"1,2,3",3,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,7.0,5.0,10.0,6.0,nee
+1579177886,2/9/2018 16:33:53,3350523841,2/9/2018 16:29:13,False,neodev,0.6391,43551505,USA,0,0,0,0,None in particular,"tevreden
+blij
+opgewonden",blij,tevreden,"1,2,3",4,eens,0,nointerest,"4,2,3",electronics,eens,submit4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,27.0,11.0,78.0,55.0,nee
+1579177886,2/9/2018 17:32:02,3350705246,2/9/2018 17:28:49,False,neodev,0.6717,44192955,USA,0,0,0,0,Nothing,opgelucht,opgelucht,opgelucht,"1,2,3",0,eens,0,nointerest,"3,4,2",clothing,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,20.0,6.0,118.0,7.0,ja
+1579177886,2/9/2018 17:34:45,3350714346,2/9/2018 17:33:02,False,neodev,0.6599,44232898,USA,0,0,0,0,i do kwno,beschaamd,beschaamd,schuldig,"3,2,1",0,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,cancel2,submit3,2.0,3.0,4.0,"2,0,1",0,13.0,22.0,26.0,8.0,nee
+1579177886,2/9/2018 17:34:54,3350714788,2/9/2018 17:31:08,False,neodev,0.7490000000000001,43984450,USA,0,0,0,0,It makes you take consciousness about expenses,opgelucht,ontevreden,opgelucht,"1,3,2",2,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,24.0,58.0,20.0,36.0,ja
+1579177886,2/9/2018 18:08:11,3350814513,2/9/2018 18:03:59,False,elite,0.7242,36340478,USA,0,0,0,0,,"ontevreden
+verdrietig
+beschaamd","boos
+beschaamd","beschaamd
+weetniet","1,3,2",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,71.0,39.0,62.0,26.0,ja
+1579177886,2/9/2018 21:52:05,3351412878,2/9/2018 21:47:12,False,elite,0.6707,43680068,USA,0,0,0,0,,tevreden,bezorgd,blij,"1,2,3",1,eens,0,nointerest,"2,3,4",electronics,oneens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,30.0,42.0,87.0,49.0,ja
+1579177886,2/9/2018 21:53:06,3351415266,2/9/2018 21:51:01,False,gifthunterclub,0.7082,43987462,USA,0,0,0,0,,verdrietig,beschaamd,ontevreden,"3,2,1",0,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,17.0,15.0,19.0,15.0,ja
+1579177886,2/9/2018 22:46:22,3351540785,2/9/2018 22:43:57,False,tremorgames,0.7016,36929005,GBR,0,0,0,0,I tend to not buy if I feel I do not need it but this would be helpful to be warned before buying.,"ontevreden
+verdrietig",bezorgd,bezorgd,"1,2,3",0,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,18.0,22.0,31.0,15.0,ja
+1579177886,2/9/2018 22:46:35,3351541249,2/9/2018 22:44:38,False,prodege,0.6583,2034278,USA,0,0,0,0,This is a very cool feature that I would use.,boos,"tevreden
+blij
+opgewonden","tevreden
+blij
+opgelucht","1,3,2",3,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,22.0,14.0,28.0,24.0,ja
+1579177886,2/9/2018 23:08:07,3351591618,2/9/2018 23:05:57,False,elite,0.6902,44094520,USA,0,0,0,0,,opgelucht,blij,blij,"2,3,1",0,oneens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,22.0,21.0,21.0,25.0,ja
+1579177886,2/9/2018 23:26:27,3351634772,2/9/2018 23:22:36,False,prodege,0.6678,2966586,CAN,0,0,0,0,na,ontevreden,bezorgd,bezorgd,"3,1,2",4,eens,0,"irresponsible
+nointerest","2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,34.0,65.0,49.0,40.0,nee
+1579177886,2/9/2018 23:32:52,3351651975,2/9/2018 23:29:30,False,neodev,0.6287,11460728,CAN,0,0,0,0,,bezorgd,"tevreden
+bezorgd
+beschaamd",weetniet,"1,3,2",0,eens,0,irresponsible,"4,3,2",electronics,oneens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,39.0,31.0,41.0,40.0,weetniet
+1579177886,2/9/2018 23:34:23,3351655609,2/9/2018 23:28:42,False,elite,0.7225,44302680,GBR,0,0,0,0,,ontevreden,opgewonden,ontevreden,"1,2,3",1,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,33.0,52.0,87.0,55.0,ja
+1579177886,2/10/2018 00:59:10,3351895301,2/10/2018 00:53:44,False,neodev,0.6479,43930419,USA,0,0,0,0,no,"boos
+ontevreden
+verdrietig","boos
+ontevreden
+beschaamd","boos
+ontevreden
+verdrietig","3,1,2",2,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,16.0,33.0,98.0,18.0,ja
+1579177886,2/10/2018 01:02:31,3351905654,2/10/2018 00:59:46,False,instagc,0.688,25955589,USA,0,0,0,0,,"tevreden
+blij","tevreden
+blij","tevreden
+blij","1,3,2",4,eens,0,"irresponsible
+nointerest","2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,17.0,51.0,19.0,47.0,ja
+1579177886,2/10/2018 01:57:13,3352067605,2/10/2018 01:55:24,False,elite,0.6942,34230357,USA,0,0,0,0,No,verdrietig,"tevreden
+blij","ontevreden
+bezorgd","2,1,3",2,eens,0,nvt,"3,4,2",electronics,eens,submit4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,17.0,13.0,25.0,13.0,ja
+1579177886,2/10/2018 02:18:51,3352131635,2/10/2018 02:16:07,False,prodege,0.6303,7348582,CAN,0,0,0,0,,weetniet,tevreden,tevreden,"2,3,1",1,eens,0,nointerest,"2,4,3",electronics,oneens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,41.0,36.0,31.0,20.0,nee
+1579177886,2/10/2018 03:38:05,3352321156,2/10/2018 03:35:20,False,prodege,0.7277,35427759,USA,0,0,0,0,,"ontevreden
+verdrietig",ontevreden,"ontevreden
+verdrietig","2,3,1",3,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,23.0,37.0,29.0,50.0,ja
+1579177886,2/10/2018 04:51:30,3352483470,2/10/2018 04:45:16,False,gifthunterclub,0.6434,39557143,CAN,0,0,0,0,,"boos
+ontevreden
+verdrietig
+beschaamd
+schuldig","tevreden
+blij
+opgelucht","tevreden
+blij
+opgelucht","1,3,2",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,23.0,21.0,270.0,31.0,ja
+1579177886,2/10/2018 05:53:20,3352592034,2/10/2018 05:51:21,False,prodege,0.6986,44226542,USA,0,0,0,0,,ontevreden,weetniet,ontevreden,"1,2,3",1,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,36.0,17.0,22.0,19.0,ja
+1579177886,2/10/2018 06:23:45,3352640099,2/10/2018 06:20:47,False,prodege,0.7099,32163360,USA,0,0,0,0,,bezorgd,ontevreden,ontevreden,"1,2,3",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,22.0,33.0,62.0,26.0,nee
+1579177886,2/10/2018 07:02:18,3352695337,2/10/2018 06:58:24,False,prodege,0.7411,5994814,USA,0,0,0,0,Not at this time.,ontevreden,ontevreden,ontevreden,"1,2,3",0,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,33.0,47.0,45.0,58.0,ja
+1579177886,2/10/2018 07:40:44,3352763614,2/10/2018 07:29:46,False,elite,0.6534,43682730,USA,0,0,0,0,,opgewonden,ontevreden,verdrietig,"3,2,1",1,eens,0,irresponsible,"3,4,2",tickets,eens,submit4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,16.0,22.0,251.0,16.0,nee
+1579177886,2/10/2018 08:02:17,3352787725,2/10/2018 07:48:16,False,elite,0.6418,43695237,USA,0,0,0,0,,tevreden,blij,tevreden,"2,3,1",1,eens,0,nointerest,"4,3,2",clothing,oneens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,8.0,10.0,740.0,11.0,ja
+1579177886,2/10/2018 08:48:18,3352849189,2/10/2018 08:37:19,False,elite,0.7218,44059654,USA,0,0,0,0,,ontevreden,ontevreden,blij,"1,2,3",1,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,7.0,6.0,75.0,5.0,ja
+1579177886,2/10/2018 13:09:43,3353316572,2/10/2018 13:05:36,False,neodev,0.6912,11001780,AUS,0,0,0,0,This warning is a good addition to online experience.,"ontevreden
+verdrietig",blij,schuldig,"3,2,1",3,eens,0,nvt,"2,4,3",electronics,eens,submit4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,39.0,18.0,49.0,34.0,ja
+1579177886,2/10/2018 13:19:14,3353336192,2/10/2018 13:15:08,False,prodege,0.7389,1856261,USA,0,0,0,0,,ontevreden,verdrietig,opgelucht,"3,2,1",3,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,73.0,39.0,50.0,47.0,ja
+1579177886,2/10/2018 15:42:24,3353620763,2/10/2018 15:38:49,False,fusioncash,0.6546,35242242,USA,0,0,0,0,"maybe show the pics of the shoes.
+
+Two pictures showed the shoe store, not the shoes intended to be purchased.","tevreden
+blij",opgelucht,"tevreden
+blij","1,2,3",0,eens,0,nointerest,"3,2,4",clothing,eens,submit4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,23.0,26.0,44.0,28.0,ja
+1579177886,2/10/2018 16:33:11,3353716688,2/10/2018 16:32:08,False,prodege,0.7291,38066228,USA,0,0,0,0,,"ontevreden
+verdrietig
+beschaamd","ontevreden
+verdrietig","ontevreden
+verdrietig","3,1,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,14.0,8.0,11.0,11.0,ja
+1579177886,2/10/2018 16:46:15,3353740356,2/10/2018 16:41:51,False,elite,0.71,37679375,CAN,0,0,0,0,,bezorgd,weetniet,boos,"2,3,1",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,56.0,43.0,59.0,40.0,nee
+1579177886,2/10/2018 17:42:31,3353837787,2/10/2018 17:40:02,False,prodege,0.6755,12009597,USA,0,0,0,0,no,"tevreden
+bezorgd",ontevreden,boos,"1,2,3",3,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,27.0,28.0,19.0,41.0,ja
+1579177886,2/10/2018 18:04:29,3353892466,2/10/2018 18:02:50,False,elite,0.6601,44199199,USA,0,0,0,0,None,ontevreden,"tevreden
+blij",ontevreden,"2,3,1",2,oneens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,15.0,8.0,17.0,22.0,ja
+1579177886,2/10/2018 18:55:45,3353992244,2/10/2018 18:53:11,False,gifthunterclub,0.733,44211899,USA,0,0,0,0,,"boos
+ontevreden",ontevreden,tevreden,"3,2,1",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,submit3,3.0,2.0,4.0,"0,2,1",0,30.0,25.0,30.0,22.0,ja
+1579177886,2/10/2018 19:26:32,3354049730,2/10/2018 19:23:42,False,gifthunterclub,0.7402,44315792,USA,0,0,0,0,,verdrietig,verdrietig,verdrietig,"1,3,2",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,24.0,44.0,26.0,17.0,ja
+1579177886,2/10/2018 20:18:29,3354148648,2/10/2018 20:13:59,False,elite,0.6436,39017656,CAN,0,0,0,0,none,"boos
+ontevreden","blij
+opgewonden","ontevreden
+bezorgd","1,3,2",3,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,24.0,67.0,62.0,48.0,nee
+1579177886,2/10/2018 20:22:51,3354156961,2/10/2018 20:21:46,False,elite,0.6629999999999999,36466155,USA,0,0,0,0,,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd","bezorgd
+schuldig","boos
+ontevreden","1,2,3",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,10.0,17.0,12.0,4.0,ja
+1579177886,2/10/2018 20:28:18,3354168549,2/10/2018 20:24:09,False,clixsense,0.7056,43943676,USA,0,0,0,0,,beschaamd,"opgelucht
+boos
+ontevreden","ontevreden
+bezorgd
+beschaamd","1,3,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,3.0,13.0,203.0,7.0,ja
+1579177886,2/10/2018 21:50:12,3354354786,2/10/2018 21:46:45,False,instagc,0.7439,24449254,USA,0,0,0,0,I thought it was an interesting way to see if I would spend money I didn't have.,"tevreden
+opgelucht",ontevreden,verdrietig,"3,1,2",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,32.0,30.0,54.0,25.0,ja
+1579177886,2/10/2018 22:03:42,3354378820,2/10/2018 21:55:34,False,neodev,0.6615,44095688,USA,0,0,0,0,"me encanta este proceso, es una excelente idea nos ayuda a ser mas concientes y administradores.",ontevreden,blij,verdrietig,"1,2,3",0,oneens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,25.0,70.0,213.0,40.0,ja
+1579177886,2/11/2018 00:23:38,3354627068,2/11/2018 00:19:56,False,prodege,0.735,43962926,USA,0,0,0,0,I also canceled because the items are not necessities.,"ontevreden
+schuldig",ontevreden,opgelucht,"3,2,1",2,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,33.0,43.0,21.0,51.0,ja
+1579177886,2/11/2018 00:26:41,3354632484,2/11/2018 00:24:34,False,instagc,0.7052,35409880,CAN,0,0,0,0,no,"ontevreden
+schuldig","blij
+opgewonden
+schuldig","opgewonden
+schuldig","1,2,3",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,17.0,30.0,14.0,38.0,ja
+1579177886,2/11/2018 00:26:48,3354632742,2/11/2018 00:24:45,False,neodev,0.7528,43858025,USA,0,0,0,0,,bezorgd,tevreden,bezorgd,"3,2,1",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,16.0,36.0,16.0,13.0,ja
+1579177886,2/11/2018 00:40:20,3354658157,2/11/2018 00:38:49,False,prodege,0.7015,31645369,USA,0,0,0,0,,"opgelucht
+ontevreden",ontevreden,ontevreden,"1,2,3",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,19.0,13.0,23.0,15.0,ja
+1579177886,2/11/2018 00:52:12,3354678863,2/11/2018 00:47:47,False,bitcoinget,0.6602,43844102,USA,0,0,0,0,no,tevreden,tevreden,tevreden,"3,1,2",3,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,12.0,36.0,89.0,24.0,weetniet
+1579177886,2/11/2018 00:55:07,3354683970,2/11/2018 00:50:52,False,instagc,0.5953,25278366,CAN,0,0,0,0,,bezorgd,opgelucht,"opgelucht
+boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig","2,3,1",2,eens,0,"irresponsible
+nointerest","3,2,4",clothing,oneens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,12.0,135.0,57.0,10.0,ja
+1579177886,2/11/2018 02:34:51,3354851594,2/11/2018 02:30:42,False,instagc,0.6603,15016371,USA,0,0,0,0,"I probably would have cancelled the first transaction as well because I would never buy something I couldn't afford.  I don't use a debit card ever so for the first task, it wasn't clear to me that I didn't have enough funds to cover the transaction.  I appreciate the warning.","verdrietig
+beschaamd","tevreden
+opgewonden",ontevreden,"3,2,1",4,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,41.0,43.0,47.0,25.0,ja
+1579177886,2/11/2018 03:12:51,3354924248,2/11/2018 03:07:07,False,clixsense,0.6213,6416927,USA,0,0,0,0,,ontevreden,bezorgd,verdrietig,"3,1,2",1,weetniet,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,49.0,39.0,59.0,107.0,weetniet
+1579177886,2/11/2018 03:27:27,3354951263,2/11/2018 03:25:47,False,neodev,0.7564,44225314,USA,0,0,0,0,,verdrietig,tevreden,bezorgd,"1,3,2",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,11.0,9.0,33.0,5.0,ja
+1579177886,2/11/2018 04:20:11,3355030047,2/11/2018 04:17:13,False,neodev,0.7264,42352021,USA,0,0,0,0,,tevreden,tevreden,tevreden,"2,1,3",1,eens,0,nointerest,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,15.0,36.0,80.0,12.0,ja
+1579177886,2/11/2018 04:43:48,3355062387,2/11/2018 04:42:55,False,prodege,0.6695,4503035,CAN,0,0,0,0,,ontevreden,"blij
+opgewonden","blij
+opgewonden","2,3,1",3,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,6.0,13.0,11.0,10.0,ja
+1579177886,2/11/2018 06:01:36,3355149048,2/11/2018 05:57:54,False,prodege,0.6821,2365036,USA,0,0,0,0,,boos,ontevreden,"opgelucht
+bezorgd","2,1,3",2,eens,0,irresponsible,"3,2,4",electronics,weetniet,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,46.0,58.0,23.0,30.0,ja
+1579177886,2/11/2018 08:43:51,3355328380,2/11/2018 08:39:39,False,prodege,0.6951,32414674,GBR,0,0,0,0,I think that there should have always been a warning if I was potentially about to go overdrawn. (It would also have helped if I could have had some notification that I might have income pending.),"ontevreden
+bezorgd
+beschaamd
+schuldig","ontevreden
+bezorgd","boos
+ontevreden
+bezorgd
+beschaamd
+schuldig","2,3,1",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,32.0,40.0,24.0,47.0,ja
+1579177886,2/11/2018 09:26:44,3355371149,2/11/2018 09:24:27,False,elite,0.7126,29768955,GBR,0,0,0,0,,opgelucht,blij,tevreden,"2,1,3",2,eens,0,nointerest,"3,4,2",electronics,eens,submit4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,31.0,27.0,24.0,22.0,ja
+1579177886,2/11/2018 10:02:21,3355404799,2/11/2018 09:59:37,False,prodege,0.7539,43784957,USA,0,0,0,0,no,beschaamd,verdrietig,beschaamd,"1,3,2",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,43.0,33.0,31.0,21.0,ja
+1579177886,2/11/2018 10:32:14,3355433329,2/11/2018 10:28:09,False,elite,0.6969,40711820,USA,0,0,0,0,is very nice,blij,tevreden,blij,"2,1,3",0,eens,0,nvt,"3,2,4",electronics,eens,submit4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,18.0,23.0,117.0,17.0,ja
+1579177886,2/11/2018 11:55:51,3355520159,2/11/2018 11:54:18,False,elite,0.5987,44269380,USA,0,0,0,0,,verdrietig,tevreden,"blij
+opgewonden","3,1,2",0,oneens,0,irresponsible,"3,2,4",clothing,weetniet,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,10.0,14.0,14.0,7.0,ja
+1579177886,2/11/2018 12:18:02,3355544813,2/11/2018 12:16:38,False,elite,0.6913,44274103,USA,0,0,0,0,,verdrietig,bezorgd,"ontevreden
+bezorgd
+verdrietig","2,3,1",0,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,12.0,12.0,22.0,10.0,ja
+1579177886,2/11/2018 14:20:43,3355735252,2/11/2018 14:14:06,False,neodev,0.7244,44273888,USA,0,0,0,0,I do not think it makes sense to place a product that exceeds the value of the available fund.,bezorgd,tevreden,blij,"3,1,2",1,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,61.0,14.0,62.0,104.0,ja
+1579177886,2/11/2018 14:30:46,3355751040,2/11/2018 14:28:18,False,elite,0.6547,44181754,USA,0,0,0,0,,"ontevreden
+verdrietig
+weetniet","opgelucht
+boos
+ontevreden
+weetniet","boos
+ontevreden
+weetniet","3,2,1",2,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,8.0,16.0,46.0,31.0,ja
+1579177886,2/11/2018 17:09:13,3356122667,2/11/2018 17:06:11,False,clixsense,0.6949,19294877,USA,0,0,0,0,i wish there were more info especially on the 1st product,bezorgd,opgewonden,ontevreden,"2,1,3",4,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,21.0,12.0,48.0,33.0,ja
+1579177886,2/11/2018 17:33:55,3356189737,2/11/2018 17:29:01,False,elite,0.6312,44292855,USA,0,0,0,0,I think they should do it a little longer and with a better payment.,ontevreden,blij,verdrietig,"3,2,1",2,oneens,0,nointerest,"2,4,3",clothing,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,18.0,16.0,121.0,17.0,ja
+1579177886,2/11/2018 17:34:03,3356189947,2/11/2018 17:32:17,False,prodege,0.6577,1862882,CAN,0,0,0,0,,"ontevreden
+schuldig","blij
+opgewonden","ontevreden
+beschaamd","2,3,1",3,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,10.0,22.0,41.0,11.0,ja
+1579177886,2/11/2018 18:00:13,3356228170,2/11/2018 17:48:37,False,elite,0.7076,44186200,USA,0,0,0,0,Good task.,opgelucht,ontevreden,blij,"1,3,2",0,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,153.0,84.0,183.0,31.0,ja
+1579177886,2/11/2018 18:00:48,3356229000,2/11/2018 17:58:29,False,neodev,0.6793,44300855,USA,0,0,0,0,no,boos,boos,"boos
+ontevreden","3,1,2",3,eens,0,irresponsible,"4,3,2",electronics,oneens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,21.0,19.0,22.0,23.0,ja
+1579177886,2/11/2018 18:58:24,3356489673,2/11/2018 18:56:36,False,neodev,0.7022,14861092,GBR,0,0,0,0,,verdrietig,tevreden,bezorgd,"2,1,3",3,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,22.0,16.0,22.0,26.0,ja
+1579177886,2/11/2018 20:02:36,3356757879,2/11/2018 20:00:52,False,prodege,0.6915,1889301,USA,0,0,0,0,,verdrietig,verdrietig,"boos
+ontevreden
+verdrietig","3,1,2",2,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,23.0,21.0,20.0,15.0,ja
+1579177886,2/11/2018 21:00:08,3356855759,2/11/2018 20:56:46,False,prodege,0.6414,37195588,CAN,0,0,0,0,,bezorgd,"ontevreden
+bezorgd",bezorgd,"1,3,2",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,18.0,66.0,28.0,52.0,weetniet
+1579177886,2/11/2018 21:38:01,3356930144,2/11/2018 21:31:30,False,clixsense,0.7219,25486037,CAN,0,0,0,0,"I personally like the more obvious warning about insufficient funds rather than the ""you will not be able to make any more purchases this month"" warning.","ontevreden
+beschaamd
+schuldig",weetniet,beschaamd,"3,2,1",2,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,26.0,41.0,78.0,58.0,ja
+1579177886,2/11/2018 22:32:31,3357021422,2/11/2018 22:28:53,False,neodev,0.5857,43996261,CAN,0,0,0,0,buen task,tevreden,blij,blij,"2,3,1",0,eens,0,nointerest,"3,2,4",clothing,oneens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,25.0,24.0,77.0,26.0,nee
+1579177886,2/11/2018 23:33:47,3357120779,2/11/2018 23:29:39,False,neodev,0.6754,42358952,USA,0,0,0,0,all is very well,"tevreden
+blij","tevreden
+blij","tevreden
+blij
+opgewonden","1,2,3",3,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,20.0,14.0,131.0,19.0,ja
+1579177886,2/11/2018 23:39:06,3357130451,2/11/2018 23:34:45,False,neodev,0.6906,43256943,CAN,0,0,0,0,"i liked all, is very well...",ontevreden,"tevreden
+blij","tevreden
+blij
+opgewonden","2,3,1",3,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,9.0,14.0,26.0,20.0,ja
+1579177886,2/12/2018 00:38:00,3357228867,2/12/2018 00:35:38,False,prodege,0.6487,44126347,GBR,0,0,0,0,none,"opgewonden
+ontevreden
+schuldig","ontevreden
+verdrietig
+schuldig","ontevreden
+verdrietig
+schuldig","3,1,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,41.0,24.0,16.0,20.0,nee
+1579177886,2/12/2018 01:26:54,3357300539,2/12/2018 01:24:15,False,instagc,0.7127,31574574,CAN,0,0,0,0,,ontevreden,"blij
+opgewonden","blij
+opgewonden","2,1,3",4,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,24.0,33.0,39.0,27.0,ja
+1579177886,2/12/2018 01:43:46,3357326751,2/12/2018 01:27:27,False,clixsense,0.6862,43628054,USA,0,0,0,0,,verdrietig,"blij
+opgewonden",blij,"2,1,3",2,oneens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,9.0,9.0,909.0,21.0,ja
+1579177886,2/12/2018 03:25:33,3357477065,2/12/2018 03:24:38,False,neodev,0.7069,44219992,USA,0,0,0,0,,verdrietig,tevreden,tevreden,"2,3,1",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,9.0,12.0,11.0,6.0,ja
+1579177886,2/12/2018 03:57:17,3357536940,2/12/2018 03:48:55,False,neodev,0.6723,44272321,USA,0,0,0,0,no,"bezorgd
+verdrietig
+schuldig",blij,"tevreden
+opgelucht","2,3,1",0,oneens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,60.0,60.0,171.0,75.0,ja
+1579177886,2/12/2018 06:05:19,3357703317,2/12/2018 05:59:56,False,elite,0.7379,44247956,USA,0,0,0,0,,boos,verdrietig,verdrietig,"3,1,2",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,16.0,34.0,232.0,12.0,ja
+1579177886,2/12/2018 06:11:40,3357709562,2/12/2018 06:10:07,False,prodege,0.7116,37512301,CAN,0,0,0,0,,opgelucht,opgelucht,bezorgd,"3,1,2",1,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,17.0,16.0,14.0,19.0,ja
+1579177886,2/12/2018 06:23:41,3357721030,2/12/2018 06:07:29,False,elite,0.7412,44248072,USA,0,0,0,0,,verdrietig,verdrietig,boos,"2,3,1",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,103.0,7.0,9.0,21.0,ja
+1579177886,2/12/2018 06:58:28,3357753349,2/12/2018 06:56:14,False,elite,0.6928,32173500,GBR,0,0,0,0,,bezorgd,verdrietig,verdrietig,"2,3,1",4,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,14.0,23.0,32.0,34.0,ja
+1579177886,2/12/2018 09:27:54,3357886240,2/12/2018 09:20:33,False,neodev,0.5719,44317392,GBR,0,0,0,0,nothing to add for the moment,"tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden","1,3,2",0,oneens,0,nvt,"3,4,2",electronics,eens,submit4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,137.0,135.0,22.0,10.0,nee
+1579177886,2/12/2018 12:07:12,3358188439,2/12/2018 12:02:02,False,clixsense,0.7202,6330997,USA,0,0,0,0,,ontevreden,tevreden,blij,"2,3,1",1,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,45.0,47.0,67.0,15.0,ja
+1579177886,2/12/2018 12:25:45,3358246243,2/12/2018 12:23:10,False,prodege,0.6732,1874398,CAN,0,0,0,0,,"boos
+ontevreden
+verdrietig","tevreden
+blij","tevreden
+blij","1,3,2",2,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,20.0,29.0,43.0,34.0,ja
+1579177886,2/12/2018 13:55:19,3358653308,2/12/2018 13:52:38,False,elite,0.6495,44062216,GBR,0,0,0,0,,weetniet,blij,weetniet,"3,2,1",3,eens,0,nvt,"4,2,3",electronics,eens,submit4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,18.0,16.0,14.0,17.0,nee
+1579177886,2/12/2018 14:34:17,3358947876,2/12/2018 14:28:48,False,neodev,0.7440000000000001,44099814,USA,0,0,0,0,,ontevreden,ontevreden,tevreden,"1,2,3",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,42.0,13.0,66.0,128.0,ja
+1579177886,2/12/2018 14:44:48,3358978252,2/12/2018 14:44:02,False,prodege,0.6606,32916971,CAN,0,0,0,0,,"opgewonden
+bezorgd","tevreden
+blij
+boos","opgelucht
+boos","1,2,3",2,eens,0,irresponsible,"4,3,2",electronics,eens,submit4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,3.0,6.0,16.0,8.0,nee
+1579177886,2/12/2018 16:24:40,3359236059,2/12/2018 16:10:56,False,elite,0.691,44265226,CAN,0,0,0,0,,opgewonden,blij,bezorgd,"3,1,2",3,eens,0,irresponsible,"3,2,4",electronics,eens,submit4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,5.0,7.0,778.0,6.0,nee
+1579177886,2/12/2018 16:25:20,3359237703,2/12/2018 16:09:36,False,elite,0.6657,44164856,CAN,0,0,0,0,,verdrietig,opgelucht,tevreden,"1,3,2",0,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,4.0,9.0,915.0,4.0,nee
+1579177886,2/12/2018 16:39:35,3359269692,2/12/2018 16:23:01,False,elite,0.5439,44105368,CAN,0,0,0,0,,ontevreden,blij,"blij
+weetniet","3,1,2",3,oneens,0,nointerest,"2,4,3",clothing,oneens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,4.0,6.0,931.0,5.0,nee
+1579177886,2/12/2018 18:44:37,3359556648,2/12/2018 18:42:28,False,clixsense,0.7097,9383512,USA,0,0,0,0,Very interesting idea. I would like to see some apps with this type of financial help for everyone.,"boos
+ontevreden",tevreden,"tevreden
+blij
+opgewonden","2,1,3",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,15.0,16.0,22.0,19.0,ja
+1579177886,2/12/2018 19:22:53,3359654592,2/12/2018 19:19:12,False,instagc,0.6351,43498762,USA,0,0,0,0,Makes you want to think about things before you purchase,opgelucht,"blij
+opgewonden
+schuldig",weetniet,"2,3,1",2,eens,0,"irresponsible
+nointerest","2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,43.0,45.0,41.0,35.0,ja
+1579177886,2/12/2018 20:09:01,3359771411,2/12/2018 19:59:21,False,elite,0.6644,44319266,USA,0,0,0,0,I find it extremely interesting that they place notice notices on how you are exceeding the purchase limits.,"ontevreden
+verdrietig","opgelucht
+weetniet","ontevreden
+bezorgd
+verdrietig","3,2,1",3,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,15.0,27.0,15.0,36.0,ja
+1579177886,2/12/2018 22:30:42,3360154474,2/12/2018 22:26:01,False,neodev,0.6616,40370099,USA,0,0,0,0,,"beschaamd
+schuldig","opgewonden
+beschaamd","ontevreden
+verdrietig","2,3,1",2,eens,0,irresponsible,"3,2,4",electronics,oneens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,24.0,46.0,85.0,73.0,ja
+1579177886,2/12/2018 22:36:49,3360164808,2/12/2018 22:33:12,False,instagc,0.6725,17334120,USA,0,0,0,0,,"bezorgd
+beschaamd",schuldig,tevreden,"1,2,3",1,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,26.0,42.0,108.0,19.0,ja
+1579177886,2/12/2018 23:08:34,3360218080,2/12/2018 23:04:58,False,elite,0.7316,44282964,USA,0,0,0,0,,bezorgd,verdrietig,verdrietig,"1,3,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,submit4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,54.0,37.0,50.0,23.0,ja
+1579177886,2/12/2018 23:14:51,3360230539,2/12/2018 23:11:42,False,neodev,0.6816,44019876,USA,0,0,0,0,,"tevreden
+blij",opgelucht,"bezorgd
+verdrietig","3,2,1",0,eens,0,irresponsible,"3,4,2",clothing,eens,submit4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,23.0,30.0,40.0,20.0,ja
+1579177886,2/12/2018 23:20:48,3360243615,2/12/2018 23:17:25,False,tremorgames,0.7239,37967096,USA,0,0,0,0,,"ontevreden
+bezorgd",ontevreden,"ontevreden
+bezorgd","3,1,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,41.0,77.0,25.0,24.0,ja
+1579177886,2/13/2018 00:24:04,3360390355,2/13/2018 00:21:16,False,elite,0.6974,44021516,USA,0,0,0,0,,opgelucht,bezorgd,weetniet,"1,3,2",3,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,13.0,65.0,40.0,11.0,ja
+1579177886,2/13/2018 00:53:41,3360468702,2/13/2018 00:46:28,False,elite,0.6921,44274214,USA,0,0,0,0,,"beschaamd
+schuldig",schuldig,ontevreden,"3,2,1",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,23.0,12.0,358.0,12.0,ja
+1579177886,2/13/2018 03:14:58,3360822549,2/13/2018 03:11:07,False,neodev,0.6629,44208742,USA,0,0,0,0,"No, I appreciate your help.",ontevreden,tevreden,blij,"1,3,2",0,eens,0,nointerest,"2,3,4",tickets,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,14.0,31.0,62.0,14.0,ja
+1579177886,2/13/2018 03:55:26,3360933754,2/13/2018 03:51:00,False,clixsense,0.6593,44036498,USA,0,0,0,0,"This was a pretty straight forward and simple task, thank you.","ontevreden
+verdrietig","tevreden
+blij
+opgewonden","tevreden
+opgewonden","2,3,1",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,38.0,38.0,75.0,43.0,ja
+1579177886,2/13/2018 03:58:29,3360941725,2/13/2018 03:56:36,False,instagc,0.7355,19425875,USA,0,0,0,0,,schuldig,tevreden,tevreden,"2,1,3",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,11.0,29.0,18.0,30.0,ja
+1579177886,2/13/2018 07:12:33,3361424776,2/13/2018 07:09:18,False,instagc,0.655,15572957,USA,0,0,0,0,no,"boos
+ontevreden
+verdrietig","tevreden
+blij
+opgewonden","tevreden
+opgelucht","3,1,2",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,32.0,37.0,46.0,38.0,ja
+1579177886,2/13/2018 08:12:42,3361542543,2/13/2018 08:09:23,False,instagc,0.6645,34854490,USA,0,0,0,0,,"boos
+bezorgd
+beschaamd","boos
+bezorgd
+beschaamd","boos
+ontevreden
+bezorgd","3,1,2",4,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,17.0,21.0,55.0,7.0,ja
+1579177886,2/13/2018 10:42:03,3361946739,2/13/2018 10:37:23,False,elite,0.7134,44287131,USA,0,0,0,0,,opgelucht,tevreden,blij,"3,1,2",1,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,9.0,27.0,27.0,17.0,ja
+1579177886,2/13/2018 11:58:54,3362147280,2/13/2018 11:53:41,False,prizerebel,0.6185,44184101,USA,0,0,0,0,no feedback,weetniet,weetniet,weetniet,"1,3,2",1,eens,0,"irresponsible
+nointerest","4,2,3",electronics,weetniet,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,55.0,48.0,79.0,67.0,weetniet
+1579177886,2/13/2018 12:21:53,3362206834,2/13/2018 12:15:17,False,instagc,0.7208,15004831,USA,0,0,0,0,"I wish this is how it worked when went to buy product.   It would be great if every time you went to buy something, it would show how much you had left in your bank account.",verdrietig,"ontevreden
+verdrietig",verdrietig,"3,2,1",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,213.0,22.0,56.0,19.0,ja
+1579177886,2/13/2018 13:16:59,3362423018,2/13/2018 13:09:02,False,vivatic,0.6989,43419528,GBR,0,0,0,0,"It wasn't entirely clear if the balance shown was your actual bank balance or simply the credit available at that store. Was this your bank balance or your paypal balance for example? If it was the former, then yes I really do think this would be helpful.",tevreden,tevreden,ontevreden,"1,3,2",2,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,207.0,45.0,63.0,25.0,ja
+1579177886,2/13/2018 15:01:10,3362749154,2/13/2018 14:57:18,False,prodege,0.7139,4156277,CAN,0,0,0,0,,"ontevreden
+verdrietig","ontevreden
+verdrietig","ontevreden
+verdrietig","3,2,1",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,28.0,137.0,28.0,14.0,ja
+1579177886,2/13/2018 17:42:47,3363357480,2/13/2018 17:38:33,False,neodev,0.6754,44275218,USA,0,0,0,0,satisfecho,boos,opgelucht,opgelucht,"1,3,2",0,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,65.0,30.0,42.0,36.0,nee
+1579177886,2/13/2018 19:10:37,3363705461,2/13/2018 19:06:20,False,clixsense,0.7405,37196213,USA,0,0,0,0,,weetniet,tevreden,opgelucht,"1,3,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,53.0,76.0,45.0,37.0,ja
+1579177886,2/13/2018 19:35:15,3363791090,2/13/2018 19:31:44,False,instagc,0.7396,33193667,USA,0,0,0,0,,opgelucht,opgelucht,opgelucht,"3,2,1",0,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,19.0,33.0,86.0,31.0,ja
+1579177886,2/13/2018 19:54:19,3363878724,2/13/2018 19:48:29,False,elite,0.6437,44161778,USA,0,0,0,0,,verdrietig,tevreden,beschaamd,"3,1,2",0,eens,0,nointerest,"4,2,3",clothing,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,39.0,26.0,75.0,120.0,nee
+1579177886,2/13/2018 21:40:10,3364245215,2/13/2018 21:38:14,False,gifthunterclub,0.6679999999999999,44292269,USA,0,0,0,0,,bezorgd,weetniet,tevreden,"3,2,1",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,7.0,9.0,12.0,5.0,nee
+1579177886,2/13/2018 22:15:18,3364351025,2/13/2018 22:10:53,False,clixsense,0.7427,36002600,USA,0,0,0,0,I was worried or angry at having to cancel each transaction because in the real world I would never allow my debit account balance to drop below $200.,bezorgd,boos,boos,"2,3,1",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,55.0,15.0,56.0,29.0,ja
+1579177886,2/14/2018 01:58:14,3364979934,2/14/2018 01:54:38,False,fusioncash,0.7458,42166270,USA,0,0,0,0,,verdrietig,verdrietig,verdrietig,"3,1,2",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,34.0,22.0,57.0,34.0,ja
+1579177886,2/14/2018 03:19:30,3365191587,2/14/2018 03:15:30,False,tremorgames,0.753,36066820,CAN,0,0,0,0,,ontevreden,ontevreden,ontevreden,"3,2,1",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,23.0,136.0,29.0,23.0,ja
+1579177886,2/14/2018 04:29:22,3365371738,2/14/2018 04:21:31,False,elite,0.6802,44133731,USA,0,0,0,0,,"bezorgd
+beschaamd","tevreden
+blij","tevreden
+blij","1,3,2",3,eens,0,nvt,"2,4,3",electronics,eens,submit4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,44.0,92.0,211.0,33.0,ja
+1579177886,2/14/2018 05:04:44,3365463218,2/14/2018 05:01:01,False,elite,0.7518,44162542,USA,0,0,0,0,,bezorgd,blij,tevreden,"2,3,1",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,34.0,42.0,46.0,27.0,ja
+1579177886,2/14/2018 05:14:55,3365480709,2/14/2018 05:12:04,False,neodev,0.6842,44237481,USA,0,0,0,0,ninguno,tevreden,blij,blij,"2,1,3",0,eens,0,nointerest,"4,3,2",electronics,eens,submit4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,23.0,15.0,62.0,28.0,nee
+1579177886,2/14/2018 12:25:08,3366616055,2/14/2018 12:23:57,False,prodege,0.6006,39020969,GBR,0,0,0,0,,weetniet,weetniet,weetniet,"2,3,1",2,weetniet,0,nointerest,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,8.0,11.0,21.0,10.0,weetniet
+1579177886,2/14/2018 13:11:21,3366848957,2/14/2018 13:08:56,False,eup_slw,0.7171,31967679,GBR,0,0,0,0,,"ontevreden
+bezorgd
+beschaamd","tevreden
+blij
+opgewonden","tevreden
+bezorgd","2,1,3",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,50.0,16.0,18.0,27.0,ja
+1579177886,2/14/2018 14:32:51,3367345500,2/14/2018 14:30:22,False,elite,0.7029,44307472,USA,0,0,0,0,,tevreden,tevreden,tevreden,"1,3,2",2,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,8.0,9.0,75.0,6.0,ja
+1579177886,2/14/2018 14:43:13,3367398030,2/14/2018 14:36:33,False,elite,0.7514,44043052,USA,0,0,0,0,I find these surveys very good since I really like sites websites really good job boy!,verdrietig,blij,bezorgd,"2,1,3",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,41.0,62.0,46.0,35.0,ja
+1579177886,2/14/2018 15:45:52,3367608515,2/14/2018 15:43:42,False,instagc,0.7138,13093803,USA,0,0,0,0,,ontevreden,ontevreden,weetniet,"1,3,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,25.0,31.0,25.0,22.0,nee
+1579177886,2/14/2018 16:06:45,3367672913,2/14/2018 16:02:33,False,fusioncash,0.6912,44324297,USA,0,0,0,0,,bezorgd,tevreden,"bezorgd
+schuldig","1,2,3",0,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,cancel2,submit3,4.0,3.0,2.0,"1,0,2",0,57.0,37.0,28.0,74.0,ja
+1579177886,2/14/2018 17:07:58,3367842970,2/14/2018 17:05:28,False,neodev,0.7173,35584800,CAN,0,0,0,0,,"ontevreden
+verdrietig",verdrietig,"boos
+ontevreden
+bezorgd
+verdrietig","2,3,1",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,23.0,20.0,44.0,30.0,ja
+1579177886,2/15/2018 01:29:22,3369195519,2/15/2018 01:27:20,False,prodege,0.7403,29885393,USA,0,0,0,0,,bezorgd,bezorgd,bezorgd,"2,1,3",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,16.0,30.0,35.0,18.0,ja
+1579177886,2/15/2018 07:06:23,3369913347,2/15/2018 07:03:38,False,prodege,0.6397,16762164,USA,0,0,0,0,,"boos
+ontevreden",weetniet,"ontevreden
+beschaamd","1,3,2",0,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,20.0,69.0,18.0,30.0,weetniet
+1579177886,2/15/2018 08:59:00,3370085600,2/15/2018 08:56:38,False,neodev,0.7266,43707673,USA,0,0,0,0,,ontevreden,tevreden,blij,"2,3,1",1,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,33.0,16.0,43.0,13.0,ja
+1579177886,2/15/2018 11:09:06,3370613101,2/15/2018 11:07:51,False,neodev,0.7054,43978149,USA,0,0,0,0,,schuldig,tevreden,ontevreden,"2,1,3",2,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,7.0,3.0,15.0,12.0,ja
+1579177886,2/15/2018 14:22:01,3371076146,2/15/2018 14:20:39,False,elite,0.718,44145380,USA,0,0,0,0,Buen TAsk,tevreden,tevreden,bezorgd,"1,2,3",0,eens,0,irresponsible,"3,4,2",clothing,eens,submit4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,4.0,17.0,19.0,9.0,ja
+1579177886,2/15/2018 16:31:38,3371478201,2/15/2018 16:25:29,False,elite,0.7519,44291491,USA,0,0,0,0,No,opgelucht,boos,opgelucht,"3,2,1",0,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,16.0,56.0,106.0,16.0,ja
+1579177886,2/15/2018 17:53:25,3371711796,2/15/2018 17:52:16,False,prodege,0.6411,32245411,USA,0,0,0,0,,weetniet,"blij
+opgewonden",opgelucht,"1,3,2",1,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,10.0,21.0,10.0,11.0,weetniet
+1579177886,2/15/2018 18:52:52,3371890049,2/15/2018 18:49:00,False,keeprewarding,0.7085,43619067,CAN,0,0,0,0,I wasn't sure where the feedback was coming from. Was I actually in the store making the transaction and the debit machine said I had insufficient funds? Or was it from somewhere else? That would influence my decision.,"ontevreden
+bezorgd",verdrietig,verdrietig,"3,1,2",0,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,37.0,24.0,35.0,46.0,nee
+1579177886,2/15/2018 23:49:31,3372681920,2/15/2018 23:47:08,False,elite,0.7487,44301971,USA,0,0,0,0,,opgelucht,opgelucht,tevreden,"2,1,3",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,16.0,22.0,54.0,16.0,ja
+1579177886,2/15/2018 23:55:56,3372695830,2/15/2018 23:54:38,False,elite,0.6581,44002729,GBR,0,0,0,0,,"tevreden
+blij","tevreden
+blij",ontevreden,"1,2,3",3,eens,0,nointerest,"2,4,3",electronics,eens,submit4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,8.0,7.0,18.0,4.0,nee
+1579177886,2/16/2018 01:46:01,3373017750,2/16/2018 01:44:01,False,instagc,0.6343,40087755,USA,0,0,0,0,,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig",blij,"boos
+ontevreden
+verdrietig","1,3,2",3,weetniet,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,26.0,22.0,23.0,16.0,ja
+1579177886,2/16/2018 02:01:09,3373073529,2/16/2018 01:58:07,False,elite,0.6432,44315865,USA,0,0,0,0,stay that way,blij,blij,weetniet,"1,3,2",0,eens,0,nointerest,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,6.0,38.0,66.0,15.0,nee
+1579177886,2/16/2018 04:36:35,3373431504,2/16/2018 04:34:46,False,neodev,0.7568,44318581,USA,0,0,0,0,no,ontevreden,blij,tevreden,"2,1,3",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,13.0,8.0,44.0,22.0,ja
+1579177886,2/16/2018 07:06:59,3373711749,2/16/2018 07:05:34,False,elite,0.6951,44230724,USA,0,0,0,0,wonderful,"tevreden
+blij","ontevreden
+weetniet","blij
+opgewonden","1,2,3",1,eens,0,nointerest,"4,3,2",electronics,eens,submit4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,4.0,8.0,37.0,7.0,ja
+1579177886,2/16/2018 12:58:30,3374508011,2/16/2018 12:55:30,False,neodev,0.7148,44228548,USA,0,0,0,0,,blij,tevreden,opgelucht,"2,3,1",0,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,34.0,27.0,29.0,16.0,ja
+1579177886,2/16/2018 14:59:16,3374938697,2/16/2018 14:53:20,False,neodev,0.7027,44263496,USA,0,0,0,0,,"boos
+ontevreden","tevreden
+blij
+opgewonden","ontevreden
+bezorgd","3,2,1",1,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,22.0,8.0,23.0,17.0,ja
+1579177886,2/16/2018 17:31:39,3375729891,2/16/2018 17:29:01,False,neodev,0.7009,43734390,USA,0,0,0,0,,ontevreden,"tevreden
+blij
+opgewonden","tevreden
+blij","1,3,2",2,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,12.0,10.0,69.0,6.0,ja
+1579177886,2/16/2018 18:46:48,3376140728,2/16/2018 18:44:19,False,prodege,0.7446,7647995,GBR,0,0,0,0,,ontevreden,verdrietig,bezorgd,"2,1,3",2,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,13.0,23.0,23.0,57.0,ja
+1579177886,2/16/2018 19:14:12,3376287346,2/16/2018 19:11:52,False,neodev,0.6762,22466782,GBR,0,0,0,0,,"bezorgd
+verdrietig","tevreden
+blij
+opgewonden","blij
+opgewonden","1,3,2",1,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,42.0,26.0,27.0,17.0,ja
+1579177886,2/17/2018 00:50:13,3377699815,2/17/2018 00:46:15,False,prodege,0.7414,8715359,CAN,0,0,0,0,,opgelucht,opgelucht,opgelucht,"1,3,2",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,44.0,54.0,46.0,48.0,ja
+1579177886,2/17/2018 14:48:50,3379615784,2/17/2018 14:46:58,False,bitcoinget,0.7362,42013631,USA,0,0,0,0,,opgelucht,boos,bezorgd,"2,1,3",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,16.0,15.0,30.0,22.0,ja
+1579177886,2/17/2018 15:20:11,3379712418,2/17/2018 15:17:22,False,tremorgames,0.6581,34366329,USA,0,0,0,0,,opgewonden,tevreden,blij,"2,3,1",2,oneens,0,nointerest,"2,3,4",electronics,eens,submit4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,64.0,29.0,16.0,38.0,ja
+1579177886,2/17/2018 20:35:32,3380530941,2/17/2018 20:28:43,False,clixsense,0.696,6417754,USA,0,0,0,0,no,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig","tevreden
+blij
+opgewonden",schuldig,"2,3,1",3,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,27.0,17.0,62.0,55.0,ja
+1579177886,2/18/2018 01:54:03,3381165054,2/18/2018 01:52:15,False,clixsense,0.6879,44206122,USA,0,0,0,0,,"ontevreden
+bezorgd","tevreden
+blij
+opgelucht",bezorgd,"3,1,2",3,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,20.0,12.0,18.0,26.0,ja
+1579177886,2/18/2018 16:17:50,3382626356,2/18/2018 16:15:25,False,elite,0.7297,44180373,USA,0,0,0,0,fine,verdrietig,blij,bezorgd,"2,1,3",0,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,25.0,14.0,41.0,13.0,ja
+1579177886,2/18/2018 17:18:00,3382755952,2/18/2018 17:15:14,False,clixsense,0.7449,8261925,USA,0,0,0,0,,verdrietig,verdrietig,verdrietig,"2,1,3",2,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,47.0,12.0,42.0,41.0,ja
+1579177886,2/18/2018 23:58:01,3383571472,2/18/2018 23:53:33,False,prodege,0.7299,1853290,USA,0,0,0,0,,"opgelucht
+bezorgd",weetniet,"opgelucht
+ontevreden","3,2,1",2,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,50.0,66.0,80.0,39.0,ja
+1579177886,2/19/2018 00:04:46,3383582021,2/19/2018 00:03:19,False,elite,0.6795,44279073,USA,0,0,0,0,very good,verdrietig,tevreden,tevreden,"3,2,1",0,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,7.0,10.0,30.0,7.0,nee
+1579177886,2/19/2018 00:09:14,3383588992,2/19/2018 00:04:43,False,neodev,0.7604,43875154,USA,0,0,0,0,,verdrietig,tevreden,verdrietig,"3,2,1",0,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,19.0,55.0,119.0,27.0,ja
+1579177886,2/19/2018 00:26:52,3383615446,2/19/2018 00:19:02,False,elite,0.7599,44258393,USA,0,0,0,0,,blij,blij,blij,"2,3,1",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,132.0,17.0,128.0,35.0,ja
+1579177886,2/19/2018 00:35:06,3383627209,2/19/2018 00:32:52,False,neodev,0.6743,12115558,USA,0,0,0,0,,"ontevreden
+bezorgd","tevreden
+opgelucht","tevreden
+bezorgd","2,3,1",3,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,26.0,20.0,33.0,26.0,ja
+1579177886,2/19/2018 00:53:37,3383660255,2/19/2018 00:51:38,False,instagc,0.672,16718271,USA,0,0,0,0,no,bezorgd,opgelucht,weetniet,"1,2,3",4,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,18.0,23.0,30.0,17.0,ja
+1579177886,2/19/2018 01:47:58,3383752220,2/19/2018 01:44:31,False,prodege,0.7382,7665714,GBR,0,0,0,0,,"ontevreden
+verdrietig",ontevreden,"ontevreden
+verdrietig","1,3,2",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,31.0,84.0,25.0,37.0,ja
+1579177886,2/19/2018 02:02:33,3383778716,2/19/2018 01:59:31,False,neodev,0.6964,40890043,USA,0,0,0,0,,"verdrietig
+beschaamd
+schuldig",tevreden,"verdrietig
+weetniet","1,2,3",2,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,8.0,20.0,29.0,6.0,ja
+1579177886,2/19/2018 02:16:17,3383801834,2/19/2018 02:12:17,False,prodege,0.6277,40233359,USA,0,0,0,0,,verdrietig,"tevreden
+blij
+opgewonden
+opgelucht","boos
+bezorgd","3,1,2",2,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,26.0,33.0,80.0,41.0,nee
+1579177886,2/19/2018 03:50:13,3383981803,2/19/2018 03:46:23,False,prizerebel,0.6498,39490432,CAN,0,0,0,0,I was unclear as to whether I would be able to purchase without sufficient funds.,ontevreden,ontevreden,boos,"3,1,2",3,eens,0,irresponsible,"2,4,3",tickets,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,26.0,73.0,42.0,34.0,nee
+1579177886,2/19/2018 10:05:30,3384517064,2/19/2018 10:00:42,False,elite,0.6673,44196816,USA,0,0,0,0,thansk,opgelucht,blij,weetniet,"2,1,3",0,weetniet,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,19.0,60.0,52.0,69.0,ja
+1579177886,2/19/2018 10:58:52,3384599082,2/19/2018 10:54:59,False,prodege,0.6894,29686407,GBR,0,0,0,0,"I would add 'other' to the list of emotions.  For the first one I would have wanted to say neutral and for the second I was confused - I thought the money to be debited was less than the price of the ticket, whereas actually it was my account balance!",ontevreden,bezorgd,weetniet,"1,3,2",3,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,32.0,36.0,39.0,43.0,ja
+1579177886,2/19/2018 11:53:33,3384710282,2/19/2018 11:51:18,False,instagc,0.6457,43799342,GBR,0,0,0,0,,ontevreden,"tevreden
+schuldig",opgelucht,"2,1,3",1,eens,0,irresponsible,"4,2,3",clothing,oneens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,23.0,22.0,33.0,25.0,ja
+1579177886,2/19/2018 15:51:21,3385536368,2/19/2018 15:47:04,False,prodege,0.6576,19496425,CAN,0,0,0,0,,verdrietig,beschaamd,verdrietig,"3,2,1",2,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,102.0,34.0,27.0,40.0,weetniet
+1579177886,2/19/2018 17:00:19,3385695474,2/19/2018 16:58:41,False,neodev,0.6718,42340969,USA,0,0,0,0,,boos,opgelucht,opgelucht,"2,1,3",3,eens,0,nointerest,"4,3,2",clothing,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,15.0,30.0,15.0,19.0,ja
+1579177886,2/19/2018 19:52:23,3386182762,2/19/2018 19:50:27,False,bitcoinget,0.6778,44007114,USA,0,0,0,0,,boos,verdrietig,opgelucht,"3,1,2",1,eens,0,nointerest,"4,3,2",clothing,eens,cancel4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,10.0,11.0,25.0,23.0,ja
+1579177886,2/19/2018 20:31:01,3386297702,2/19/2018 20:27:02,False,elite,0.7453,44202374,USA,0,0,0,0,,opgelucht,blij,tevreden,"3,1,2",3,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,33.0,31.0,89.0,15.0,ja
+1579177886,2/19/2018 20:36:09,3386311456,2/19/2018 20:32:49,False,instagc,0.6648,30323060,USA,0,0,0,0,"this was interesting survey, I enjoyed taking it","ontevreden
+bezorgd","tevreden
+blij
+opgewonden",ontevreden,"3,1,2",4,eens,0,irresponsible,"3,4,2",tickets,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,29.0,36.0,54.0,29.0,ja
+1579177886,2/19/2018 22:01:23,3386503864,2/19/2018 21:59:10,False,elite,0.7288,44338739,USA,0,0,0,0,,"bezorgd
+beschaamd","ontevreden
+beschaamd","verdrietig
+beschaamd","1,3,2",0,eens,0,irresponsible,"2,3,4",electronics,eens,submit4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,20.0,17.0,32.0,23.0,ja
+1579177886,2/20/2018 02:56:01,3387149765,2/20/2018 02:50:48,False,neodev,0.6866,11658682,CAN,0,0,0,0,,ontevreden,tevreden,verdrietig,"1,3,2",1,eens,0,nointerest,"2,4,3",clothing,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,75.0,39.0,85.0,39.0,ja
+1579177886,2/20/2018 03:08:30,3387182899,2/20/2018 03:07:18,False,elite,0.6844,44118858,USA,0,0,0,0,not,blij,tevreden,tevreden,"2,1,3",0,eens,0,irresponsible,"2,4,3",clothing,eens,submit4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,9.0,5.0,22.0,9.0,nee
+1579177886,2/20/2018 05:24:32,3387504303,2/20/2018 05:22:40,False,prodege,0.654,5870728,CAN,0,0,0,0,,verdrietig,verdrietig,verdrietig,"1,3,2",1,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,27.0,14.0,19.0,19.0,nee
+1579177886,2/20/2018 13:10:46,3388476954,2/20/2018 13:09:18,False,instagc,0.7038,19302668,USA,0,0,0,0,,"bezorgd
+verdrietig
+beschaamd","blij
+opgewonden","ontevreden
+verdrietig","1,3,2",1,eens,0,"irresponsible
+nointerest","2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,13.0,30.0,9.0,17.0,ja
+1579177886,2/20/2018 13:11:34,3388479183,2/20/2018 13:10:13,False,prodege,0.6967,4316379,CAN,0,0,0,0,none,verdrietig,blij,tevreden,"1,2,3",4,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,14.0,15.0,12.0,19.0,ja
+1579177886,2/20/2018 13:13:04,3388483009,2/20/2018 13:09:49,False,clixsense,0.688,30777913,GBR,0,0,0,0,Interesting.,opgelucht,"tevreden
+blij
+opgewonden
+opgelucht","tevreden
+blij
+opgewonden
+opgelucht","2,1,3",0,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,33.0,25.0,74.0,27.0,ja
+1579177886,2/20/2018 13:17:56,3388495049,2/20/2018 13:16:12,False,clixsense,0.7457,21665495,CAN,0,0,0,0,,ontevreden,ontevreden,boos,"1,2,3",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,12.0,16.0,29.0,14.0,ja
+1579177886,2/20/2018 13:26:15,3388517706,2/20/2018 13:25:29,False,neodev,0.6763,44339513,CAN,0,0,0,0,,opgewonden,opgelucht,blij,"2,3,1",2,eens,0,nointerest,"3,4,2",clothing,eens,submit4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,3.0,4.0,15.0,4.0,ja
+1579177886,2/20/2018 13:38:44,3388547090,2/20/2018 13:35:31,False,elite,0.679,44315873,GBR,0,0,0,0,Great!,opgelucht,ontevreden,"tevreden
+bezorgd","3,2,1",1,oneens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,53.0,14.0,45.0,24.0,ja
+1579177886,2/20/2018 13:45:52,3388566466,2/20/2018 13:39:52,False,prodege,0.7028,18972023,GBR,0,0,0,0,,bezorgd,schuldig,ontevreden,"3,1,2",0,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,27.0,81.0,53.0,133.0,ja
+1579177886,2/20/2018 13:48:38,3388573941,2/20/2018 13:40:20,False,neodev,0.7293,31613324,USA,0,0,0,0,,"beschaamd
+schuldig","tevreden
+blij",ontevreden,"3,1,2",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,26.0,183.0,168.0,16.0,ja
+1579177886,2/20/2018 13:53:46,3388587102,2/20/2018 13:50:50,False,prodege,0.6965,31297175,GBR,0,0,0,0,i liked this task,verdrietig,opgewonden,ontevreden,"1,2,3",1,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,24.0,31.0,41.0,29.0,ja
+1579177886,2/20/2018 14:10:34,3388627594,2/20/2018 14:08:12,False,clixsense,0.7117,43913997,USA,0,0,0,0,none,ontevreden,ontevreden,"beschaamd
+schuldig","2,3,1",3,eens,0,"irresponsible
+nointerest","2,4,3",electronics,eens,cancel4,cancel2,submit3,3.0,2.0,4.0,"0,2,1",0,40.0,22.0,17.0,25.0,ja
+1579177886,2/20/2018 14:12:44,3388633111,2/20/2018 14:10:21,False,instagc,0.7057,32547262,USA,0,0,0,0,i always check my balances and money needed before purchases,verdrietig,weetniet,"ontevreden
+verdrietig","2,3,1",1,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,25.0,18.0,20.0,36.0,ja
+1579177886,2/20/2018 14:15:14,3388640127,2/20/2018 14:13:38,False,instagc,0.6755,13581319,USA,0,0,0,0,,ontevreden,blij,ontevreden,"2,3,1",2,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,12.0,13.0,23.0,22.0,nee
+1579177886,2/20/2018 14:19:50,3388653804,2/20/2018 14:19:06,False,instagc,0.705,15577915,USA,0,0,0,0,,ontevreden,ontevreden,ontevreden,"3,1,2",2,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,7.0,4.0,11.0,9.0,nee
+1579177886,2/20/2018 14:24:23,3388666494,2/20/2018 14:21:34,False,clixsense,0.7190000000000001,35849301,USA,0,0,0,0,no,bezorgd,tevreden,weetniet,"3,2,1",1,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,23.0,19.0,46.0,19.0,ja
+1579177886,2/20/2018 14:28:30,3388677850,2/20/2018 14:26:35,False,clixsense,0.6461,6336109,CAN,0,0,0,0,No nothing.,blij,blij,tevreden,"2,3,1",1,eens,0,nointerest,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,9.0,16.0,29.0,19.0,nee
+1579177886,2/20/2018 14:33:41,3388692784,2/20/2018 14:31:34,False,instagc,0.6661,35832653,USA,0,0,0,0,,"boos
+ontevreden","ontevreden
+bezorgd
+beschaamd",ontevreden,"2,3,1",3,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,16.0,16.0,31.0,25.0,weetniet
+1579177886,2/20/2018 14:34:50,3388696301,2/20/2018 14:32:14,False,neodev,0.5867,44068912,USA,0,0,0,0,ninguno,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig","tevreden
+blij",weetniet,"1,2,3",0,oneens,0,nvt,"2,4,3",clothing,eens,submit4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,25.0,31.0,19.0,22.0,ja
+1579177886,2/20/2018 14:48:53,3388737650,2/20/2018 14:41:30,False,prodege,0.6714,31897507,GBR,0,0,0,0,,"opgelucht
+ontevreden
+bezorgd
+verdrietig
+schuldig","opgelucht
+ontevreden
+verdrietig","opgelucht
+ontevreden
+bezorgd
+verdrietig
+schuldig","2,1,3",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,43.0,31.0,77.0,222.0,ja
+1579177886,2/20/2018 14:57:06,3388761113,2/20/2018 14:51:08,False,elite,0.7115,44246979,USA,0,0,0,0,,bezorgd,blij,tevreden,"2,1,3",3,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,12.0,37.0,201.0,26.0,ja
+1579177886,2/20/2018 15:04:46,3388782167,2/20/2018 15:01:17,False,elite,0.7468,40725179,USA,0,0,0,0,Very cool task,bezorgd,blij,tevreden,"2,3,1",2,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,33.0,20.0,73.0,36.0,ja
+1579177886,2/20/2018 15:06:42,3388786847,2/20/2018 15:04:38,False,prodege,0.6768,23977248,GBR,0,0,0,0,,"boos
+verdrietig",tevreden,"opgelucht
+schuldig","1,3,2",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,32.0,28.0,21.0,20.0,weetniet
+1579177886,2/20/2018 15:09:58,3388795767,2/20/2018 15:06:35,False,neodev,0.6827,38082417,USA,0,0,0,0,,opgelucht,opgelucht,ontevreden,"1,2,3",2,oneens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,17.0,16.0,117.0,16.0,ja
+1579177886,2/20/2018 15:35:37,3388866333,2/20/2018 15:33:01,False,prodege,0.6686,38479796,USA,0,0,0,0,,beschaamd,tevreden,bezorgd,"1,2,3",1,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,19.0,29.0,24.0,39.0,weetniet
+1579177886,2/20/2018 16:00:03,3388944208,2/20/2018 15:57:47,False,elite,0.6912,41841195,USA,0,0,0,0,,"ontevreden
+bezorgd
+beschaamd
+schuldig","ontevreden
+verdrietig
+beschaamd
+schuldig","verdrietig
+beschaamd","2,1,3",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,29.0,23.0,18.0,38.0,ja
+1579177886,2/20/2018 16:12:05,3388974454,2/20/2018 16:07:34,False,clixsense,0.5759,28335646,GBR,0,0,0,0,"You said tickets for a new English ""bank"" were available.. I think you meant band but I was a little confused. I didn't even notice the bank balance section of the pages until it said I had insufficient funds to make the purchase.","ontevreden
+verdrietig","tevreden
+blij","tevreden
+blij
+opgewonden","3,1,2",1,oneens,0,nvt,"3,2,4",tickets,eens,submit4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,25.0,32.0,82.0,22.0,ja
+1579177886,2/20/2018 16:25:33,3389007111,2/20/2018 16:23:53,False,grabpoints,0.7163,39013744,CAN,0,0,0,0,none,ontevreden,opgewonden,blij,"3,1,2",3,eens,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,23.0,13.0,15.0,14.0,ja
+1579177886,2/20/2018 16:30:00,3389020211,2/20/2018 16:27:34,False,bitcoinget,0.5931,44204957,USA,0,0,0,0,I was very confused because the transaction amount didn't match the purchase amount.,schuldig,bezorgd,ontevreden,"2,3,1",4,oneens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,20.0,33.0,17.0,28.0,nee
+1579177886,2/20/2018 17:08:18,3389110094,2/20/2018 17:05:30,False,tremorgames,0.7209,25922282,CAN,0,0,0,0,,verdrietig,blij,"opgewonden
+beschaamd","1,3,2",4,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,24.0,27.0,64.0,25.0,ja
+1579177886,2/20/2018 17:14:06,3389124004,2/20/2018 17:11:35,False,prodege,0.7421,38258094,USA,0,0,0,0,,weetniet,weetniet,ontevreden,"2,1,3",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,25.0,30.0,20.0,55.0,ja
+1579177886,2/20/2018 17:20:55,3389141770,2/20/2018 17:19:12,False,prodege,0.6736,44221901,USA,0,0,0,0,,"bezorgd
+verdrietig
+beschaamd
+schuldig",opgewonden,"verdrietig
+beschaamd","2,1,3",0,eens,0,"irresponsible
+nointerest","2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,9.0,9.0,30.0,20.0,ja
+1579177886,2/20/2018 17:38:13,3389180253,2/20/2018 17:35:49,False,elite,0.7237,44049964,USA,0,0,0,0,no. thanks.,tevreden,opgelucht,blij,"3,1,2",0,eens,0,nointerest,"4,3,2",electronics,eens,submit4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,24.0,15.0,45.0,15.0,ja
+1579177886,2/20/2018 17:44:55,3389196164,2/20/2018 17:42:23,False,fusioncash,0.6564,44112578,USA,0,0,0,0,,"ontevreden
+verdrietig","blij
+bezorgd","tevreden
+blij
+opgewonden","1,2,3",1,eens,0,"irresponsible
+nointerest","4,2,3",tickets,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,30.0,39.0,18.0,34.0,ja
+1579177886,2/20/2018 17:47:52,3389204083,2/20/2018 17:45:14,False,prodege,0.6553,20118641,USA,0,0,0,0,,ontevreden,boos,verdrietig,"1,3,2",2,eens,0,irresponsible,"4,3,2",tickets,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,25.0,13.0,57.0,36.0,nee
+1579177886,2/20/2018 17:48:53,3389206800,2/20/2018 17:41:10,False,neodev,0.6486,11257883,CAN,0,0,0,0,,tevreden,opgewonden,opgelucht,"3,1,2",2,eens,0,nointerest,"3,4,2",electronics,oneens,submit4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,241.0,34.0,115.0,19.0,ja
+1579177886,2/20/2018 18:03:23,3389250470,2/20/2018 18:00:18,False,gifthunterclub,0.7371,44247585,USA,0,0,0,0,,opgelucht,verdrietig,verdrietig,"1,3,2",3,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,22.0,72.0,29.0,31.0,ja
+1579177886,2/20/2018 18:28:09,3389316580,2/20/2018 18:26:14,False,prodege,0.7090000000000001,5055767,CAN,0,0,0,0,no,ontevreden,blij,blij,"2,3,1",3,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,23.0,14.0,34.0,19.0,nee
+1579177886,2/20/2018 18:30:35,3389322602,2/20/2018 18:28:14,False,prodege,0.6954,1870723,CAN,0,0,0,0,,beschaamd,bezorgd,bezorgd,"3,1,2",4,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,20.0,35.0,39.0,19.0,ja
+1579177886,2/20/2018 18:44:12,3389358136,2/20/2018 18:18:03,False,clixsense,0.7087,6335090,USA,0,0,0,0,,verdrietig,verdrietig,verdrietig,"3,2,1",3,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,19.0,11.0,14.0,1456.0,ja
+1579177886,2/20/2018 19:00:42,3389404946,2/20/2018 18:59:01,False,prodege,0.7454,15965551,GBR,0,0,0,0,none,verdrietig,opgelucht,verdrietig,"3,2,1",2,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,16.0,17.0,24.0,16.0,ja
+1579177886,2/20/2018 19:19:15,3389456672,2/20/2018 19:11:19,False,elite,0.716,44247693,USA,0,0,0,0,,beschaamd,blij,verdrietig,"3,1,2",2,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,228.0,47.0,53.0,27.0,ja
+1579177886,2/20/2018 19:37:33,3389512465,2/20/2018 19:34:37,False,prodege,0.7185,1883056,CAN,0,0,0,0,,verdrietig,opgewonden,tevreden,"3,1,2",1,eens,0,nointerest,"4,3,2",electronics,eens,cancel4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,28.0,29.0,48.0,39.0,ja
+1579177886,2/20/2018 19:39:02,3389516734,2/20/2018 19:34:30,False,prodege,0.7024,18869867,USA,0,0,0,0,"Thank you for offering this!  This time, I don't have any suggestions for you.",opgelucht,opgelucht,opgelucht,"2,3,1",0,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,24.0,33.0,81.0,47.0,ja
+1579177886,2/20/2018 19:41:12,3389523802,2/20/2018 19:38:23,False,prodege,0.6472,27568181,CAN,0,0,0,0,The warning is a good hit of reality when people need it. It's easy to get carried away when the cost is an intangible future worry.,schuldig,verdrietig,verdrietig,"1,3,2",4,weetniet,0,"irresponsible
+nointerest","3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,26.0,35.0,21.0,16.0,ja
+1579177886,2/20/2018 20:00:16,3389586403,2/20/2018 19:57:56,False,eup_slw,0.6388,43314753,USA,0,0,0,0,,opgelucht,opgewonden,tevreden,"1,3,2",4,weetniet,0,nointerest,"3,2,4",electronics,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,20.0,35.0,24.0,31.0,ja
+1579177886,2/20/2018 20:43:23,3389719458,2/20/2018 20:40:28,False,prodege,0.6028,19543823,CAN,0,0,0,0,"It would be better if available funds, taking into consideration overdraft protection, were displayed.","tevreden
+blij
+opgewonden","tevreden
+blij
+opgewonden
+opgelucht","tevreden
+blij
+opgewonden","3,2,1",1,eens,0,nvt,"4,3,2",tickets,eens,submit4,submit2,submit3,2.0,4.0,3.0,"2,1,0",0,19.0,10.0,12.0,60.0,ja
+1579177886,2/20/2018 20:53:45,3389750610,2/20/2018 20:47:54,False,clixsense,0.7417,37318531,GBR,0,0,0,0,PERHAPS PUT A CLOSER BALANCE IN THE DEBIT ACCOUNT TO CHECK CUSTOMER REACTIONS,tevreden,verdrietig,tevreden,"3,1,2",2,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,22.0,105.0,43.0,73.0,ja
+1579177886,2/20/2018 21:47:08,3389904101,2/20/2018 21:44:02,False,prodege,0.7273,44292353,CAN,0,0,0,0,,verdrietig,bezorgd,verdrietig,"3,1,2",2,eens,0,"irresponsible
+nointerest","2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,25.0,41.0,54.0,19.0,ja
+1579177886,2/20/2018 21:49:18,3389909938,2/20/2018 21:46:11,False,prodege,0.6979,7853767,USA,0,0,0,0,,tevreden,tevreden,bezorgd,"2,3,1",1,eens,0,irresponsible,"3,2,4",tickets,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,12.0,67.0,27.0,47.0,ja
+1579177886,2/20/2018 21:54:33,3389924028,2/20/2018 21:52:28,False,instagc,0.7170000000000001,22850156,USA,0,0,0,0,,ontevreden,weetniet,weetniet,"1,2,3",2,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,20.0,47.0,16.0,14.0,ja
+1579177886,2/20/2018 22:16:43,3389985702,2/20/2018 22:11:57,False,instagc,0.735,44339902,USA,0,0,0,0,,bezorgd,bezorgd,"bezorgd
+verdrietig","3,1,2",3,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,19.0,37.0,47.0,30.0,ja
+1579177886,2/20/2018 22:23:23,3390005529,2/20/2018 22:17:30,False,neodev,0.6998,44110297,USA,0,0,0,0,I think it will help improve the purchase orders,"boos
+ontevreden
+verdrietig","blij
+bezorgd","opgelucht
+verdrietig","3,1,2",0,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,50.0,58.0,122.0,32.0,ja
+1579177886,2/20/2018 22:24:46,3390011306,2/20/2018 22:17:27,False,elite,0.7529,42927472,USA,0,0,0,0,,verdrietig,tevreden,bezorgd,"1,3,2",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,33.0,293.0,39.0,27.0,ja
+1579177886,2/20/2018 22:24:54,3390011735,2/20/2018 22:23:17,False,instagc,0.7324,21368980,GBR,0,0,0,0,no thanks,verdrietig,"tevreden
+blij
+opgewonden","blij
+opgewonden","1,2,3",2,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,17.0,19.0,13.0,18.0,ja
+1579177886,2/20/2018 22:25:59,3390015864,2/20/2018 22:19:06,False,neodev,0.7084,16854635,USA,0,0,0,0,no,blij,blij,tevreden,"3,2,1",1,eens,0,nvt,"2,3,4",electronics,eens,submit4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,45.0,38.0,107.0,119.0,ja
+1579177886,2/20/2018 22:28:55,3390026849,2/20/2018 22:26:45,False,tremorgames,0.6699,36099223,USA,0,0,0,0,,verdrietig,bezorgd,opgelucht,"2,3,1",0,eens,0,"irresponsible
+nointerest","4,2,3",electronics,oneens,cancel4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,30.0,22.0,18.0,28.0,ja
+1579177886,2/20/2018 22:30:59,3390034413,2/20/2018 22:26:00,False,elite,0.6517,44315879,CAN,0,0,0,0,,bezorgd,ontevreden,boos,"2,1,3",1,oneens,0,irresponsible,"3,4,2",clothing,eens,submit4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,59.0,50.0,47.0,39.0,ja
+1579177886,2/20/2018 22:34:04,3390045911,2/20/2018 22:32:07,False,prodege,0.6948,41161616,GBR,0,0,0,0,,opgelucht,"opgelucht
+ontevreden","opgelucht
+ontevreden
+verdrietig","1,2,3",1,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,33.0,22.0,13.0,22.0,ja
+1579177886,2/20/2018 22:40:36,3390062649,2/20/2018 22:37:36,False,keeprewarding,0.7337,30315390,CAN,0,0,0,0,no,opgelucht,weetniet,opgelucht,"2,3,1",1,eens,0,"irresponsible
+nointerest","2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,14.0,33.0,22.0,69.0,ja
+1579177886,2/20/2018 22:55:22,3390097842,2/20/2018 22:54:04,False,clixsense,0.7040000000000001,9337207,USA,0,0,0,0,,"verdrietig
+beschaamd",weetniet,opgewonden,"2,1,3",3,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,17.0,9.0,22.0,11.0,ja
+1579177886,2/20/2018 23:29:33,3390203322,2/20/2018 23:20:10,False,instagc,0.7513,38881308,USA,0,0,0,0,This task was simple and straightforward. I was surprised to feel alarmed/stressed when the balances were shown even though I knew it was a simulation.,beschaamd,bezorgd,bezorgd,"2,3,1",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,23.0,96.0,47.0,26.0,ja
+1579177886,2/20/2018 23:31:41,3390208224,2/20/2018 23:27:05,False,neodev,0.7075,42729453,GBR,0,0,0,0,,ontevreden,"boos
+ontevreden","tevreden
+opgewonden","1,2,3",1,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,38.0,20.0,57.0,40.0,ja
+1579177886,2/21/2018 00:05:24,3390289446,2/21/2018 00:04:02,False,clixsense,0.7316,6450759,USA,0,0,0,0,,tevreden,"blij
+opgewonden","tevreden
+blij
+opgewonden","2,1,3",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,26.0,11.0,9.0,14.0,ja
+1579177886,2/21/2018 00:22:12,3390322037,2/21/2018 00:21:13,False,elite,0.718,39793872,USA,0,0,0,0,Nice task ingenous,"tevreden
+blij
+opgewonden","tevreden
+blij","opgelucht
+ontevreden
+bezorgd","1,2,3",2,eens,0,irresponsible,"4,3,2",electronics,eens,submit4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,3.0,8.0,13.0,6.0,ja
+1579177886,2/21/2018 01:03:50,3390410168,2/21/2018 01:00:02,False,prodege,0.7237,17005700,USA,0,0,0,0,,beschaamd,verdrietig,ontevreden,"2,1,3",1,eens,0,irresponsible,"4,3,2",clothing,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,25.0,33.0,39.0,51.0,ja
+1579177886,2/21/2018 01:22:24,3390457350,2/21/2018 01:16:47,False,clixsense,0.7398,44271557,USA,0,0,0,0,not,"boos
+ontevreden
+beschaamd","tevreden
+blij","ontevreden
+bezorgd","1,3,2",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,submit2,cancel3,2.0,4.0,3.0,"2,1,0",0,47.0,47.0,95.0,77.0,ja
+1579177886,2/21/2018 01:29:45,3390475228,2/21/2018 01:26:48,False,prizerebel,0.7589,6348382,USA,0,0,0,0,,ontevreden,weetniet,weetniet,"2,1,3",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,11.0,51.0,25.0,48.0,ja
+1579177886,2/21/2018 01:43:27,3390508065,2/21/2018 01:41:29,False,prodege,0.6885,7211526,USA,0,0,0,0,No comments.,opgelucht,tevreden,opgelucht,"3,2,1",4,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,17.0,14.0,31.0,19.0,ja
+1579177886,2/21/2018 01:59:51,3390548938,2/21/2018 01:55:39,False,prodege,0.6642,10959404,USA,0,0,0,0,none,weetniet,weetniet,weetniet,"2,3,1",3,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,6.0,7.0,211.0,7.0,nee
+1579177886,2/21/2018 02:04:45,3390561019,2/21/2018 02:02:05,False,neodev,0.7032,11026968,CAN,0,0,0,0,none extra comments,tevreden,tevreden,tevreden,"2,1,3",0,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,19.0,14.0,47.0,16.0,"nee
+ja"
+1579177886,2/21/2018 03:01:38,3390696191,2/21/2018 03:00:02,False,elite,0.6559999999999999,44177859,GBR,0,0,0,0,no,"blij
+beschaamd",blij,tevreden,"2,3,1",4,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,15.0,5.0,28.0,10.0,nee
+1579177886,2/21/2018 03:07:05,3390709694,2/21/2018 03:05:43,False,prodege,0.6877,31508822,CAN,0,0,0,0,,opgelucht,opgelucht,opgelucht,"1,2,3",2,eens,0,nointerest,"4,2,3",clothing,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,16.0,12.0,26.0,7.0,ja
+1579177886,2/21/2018 03:38:07,3390779963,2/21/2018 03:35:48,False,elite,0.7506,44220382,CAN,0,0,0,0,There need to be more instructions.,opgelucht,opgelucht,opgelucht,"1,2,3",2,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,11.0,12.0,42.0,32.0,ja
+1579177886,2/21/2018 03:53:02,3390811404,2/21/2018 03:49:05,False,prodege,0.6777,35256604,USA,0,0,0,0,"It would be great if when making a purchase and using a particular account, that you could be warned of that account balance. Although I'd be weary of any merchant knowing what my account balance is, along with what other details they then may be able to access of mine. I would not feel very secure.",opgelucht,"opgelucht
+beschaamd",bezorgd,"2,3,1",2,oneens,0,irresponsible,"4,2,3",electronics,eens,submit4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,12.0,24.0,22.0,27.0,ja
+1579177886,2/21/2018 03:58:58,3390825990,2/21/2018 03:57:17,False,instagc,0.5839,31585018,USA,0,0,0,0,no,"boos
+ontevreden
+verdrietig",opgelucht,opgewonden,"3,2,1",1,oneens,0,nointerest,"2,4,3",electronics,oneens,cancel4,cancel2,submit3,3.0,2.0,4.0,"0,2,1",0,22.0,20.0,17.0,20.0,ja
+1579177886,2/21/2018 05:23:00,3390989648,2/21/2018 05:17:58,False,elite,0.6884,43996498,USA,0,0,0,0,very good,tevreden,blij,blij,"1,2,3",1,eens,0,nvt,"2,4,3",electronics,eens,submit4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,23.0,21.0,98.0,15.0,"nee
+ja"
+1579177886,2/21/2018 05:36:15,3391013063,2/21/2018 05:34:28,False,neodev,0.7601,44329919,USA,0,0,0,0,,verdrietig,"tevreden
+blij",blij,"1,3,2",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,12.0,9.0,47.0,8.0,ja
+1579177886,2/21/2018 05:55:22,3391053583,2/21/2018 05:51:02,False,clixsense,0.7272,20512953,USA,0,0,0,0,,"bezorgd
+schuldig",schuldig,"ontevreden
+bezorgd","2,1,3",1,eens,0,"irresponsible
+nointerest","3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,31.0,70.0,81.0,32.0,ja
+1579177886,2/21/2018 06:34:55,3391146510,2/21/2018 06:32:52,False,prodege,0.7240000000000001,27857642,GBR,0,0,0,0,,tevreden,tevreden,opgewonden,"2,3,1",0,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,21.0,25.0,35.0,17.0,ja
+1579177886,2/21/2018 06:42:33,3391162490,2/21/2018 06:41:50,False,elite,0.6638,44175476,GBR,0,0,0,0,,opgewonden,beschaamd,blij,"3,1,2",3,eens,0,irresponsible,"2,4,3",clothing,eens,submit4,cancel2,submit3,3.0,2.0,4.0,"0,2,1",0,6.0,4.0,8.0,6.0,nee
+1579177886,2/21/2018 08:31:09,3391385083,2/21/2018 08:28:04,False,prodege,0.7214,34247194,CAN,0,0,0,0,,ontevreden,"bezorgd
+beschaamd
+schuldig","opgelucht
+ontevreden","1,3,2",3,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,23.0,67.0,28.0,22.0,ja
+1579177886,2/21/2018 08:41:19,3391401770,2/21/2018 08:39:44,False,prodege,0.7212,39884878,GBR,0,0,0,0,,tevreden,tevreden,opgelucht,"1,2,3",2,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,15.0,12.0,16.0,35.0,ja
+1579177886,2/21/2018 09:40:38,3391497601,2/21/2018 09:37:59,False,clixsense,0.6557,22500775,GBR,0,0,0,0,no,bezorgd,boos,opgewonden,"3,1,2",4,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,33.0,10.0,21.0,28.0,"nee
+ja"
+1579177886,2/21/2018 09:45:54,3391509274,2/21/2018 09:41:30,False,neodev,0.6683,44272176,USA,0,0,0,0,,weetniet,opgewonden,bezorgd,"3,2,1",0,eens,0,nointerest,"3,2,4",tickets,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,8.0,34.0,120.0,35.0,ja
+1579177886,2/21/2018 11:07:15,3391673974,2/21/2018 11:02:42,False,neodev,0.726,44233968,USA,0,0,0,0,I think it is important to consult the details of a product well before buying it,bezorgd,tevreden,opgewonden,"1,2,3",0,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,13.0,9.0,134.0,26.0,ja
+1579177886,2/21/2018 11:24:34,3391715029,2/21/2018 11:22:02,False,prodege,0.7334,25501111,CAN,0,0,0,0,none,opgelucht,blij,"tevreden
+blij","2,3,1",4,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,17.0,42.0,24.0,25.0,ja
+1579177886,2/21/2018 11:53:41,3391782704,2/21/2018 11:50:14,False,wannads,0.7429,44213555,USA,0,0,0,0,,"ontevreden
+beschaamd",blij,"boos
+bezorgd","1,3,2",2,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,37.0,86.0,28.0,20.0,ja
+1579177886,2/21/2018 12:20:37,3391843820,2/21/2018 12:19:08,False,elite,0.6842,44208402,USA,0,0,0,0,,beschaamd,tevreden,bezorgd,"1,3,2",1,eens,0,nointerest,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,18.0,8.0,11.0,13.0,nee
+1579177886,2/21/2018 12:21:31,3391846365,2/21/2018 12:19:04,False,clixsense,0.7068,6341779,USA,0,0,0,0,,bezorgd,blij,verdrietig,"3,2,1",0,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,13.0,25.0,37.0,40.0,ja
+1579177886,2/21/2018 12:22:37,3391849171,2/21/2018 12:20:43,False,instagc,0.7265,44088267,USA,0,0,0,0,,tevreden,tevreden,ontevreden,"2,1,3",1,eens,0,irresponsible,"4,2,3",clothing,eens,submit4,submit2,cancel3,3.0,4.0,2.0,"1,2,0",0,30.0,21.0,16.0,14.0,ja
+1579177886,2/21/2018 12:39:16,3391887432,2/21/2018 12:36:39,False,fusioncash,0.7086,7012325,USA,0,0,0,0,no,opgelucht,blij,opgelucht,"1,3,2",4,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,29.0,42.0,26.0,23.0,ja
+1579177886,2/21/2018 12:43:10,3391895801,2/21/2018 12:40:30,False,prodege,0.7490000000000001,37804664,GBR,0,0,0,0,,"ontevreden
+verdrietig","tevreden
+blij","tevreden
+blij","1,2,3",1,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,20.0,48.0,13.0,54.0,ja
+1579177886,2/21/2018 12:53:32,3391919024,2/21/2018 12:48:47,False,wannads,0.7639,35147304,GBR,0,0,0,0,"Although being warned about a possible irresponsible can be good, it could be viewed by some as an invasion of privacey.",ontevreden,tevreden,blij,"1,3,2",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,submit3,2.0,4.0,3.0,"2,1,0",0,29.0,32.0,35.0,37.0,ja
+1579177886,2/21/2018 13:21:30,3391986849,2/21/2018 13:19:37,False,prodege,0.7302,1894315,CAN,0,0,0,0,no,verdrietig,weetniet,blij,"3,2,1",3,eens,0,"irresponsible
+nointerest","4,2,3",electronics,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,21.0,8.0,17.0,32.0,ja
+1579177886,2/21/2018 14:11:55,3392139512,2/21/2018 14:11:21,False,elite,0.6352,44150417,USA,0,0,0,0,,beschaamd,beschaamd,"tevreden
+bezorgd","2,1,3",0,eens,0,irresponsible,"4,3,2",electronics,oneens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,3.0,6.0,8.0,5.0,nee
+1579177886,2/21/2018 14:23:21,3392165263,2/21/2018 14:21:47,False,neodev,0.6745,44079807,USA,0,0,0,0,neither,opgewonden,opgewonden,opgewonden,"2,3,1",0,eens,0,nointerest,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,7.0,5.0,31.0,3.0,nee
+1579177886,2/21/2018 14:30:39,3392181111,2/21/2018 14:23:02,False,neodev,0.7287,43826193,USA,0,0,0,0,thanks,beschaamd,blij,ontevreden,"2,3,1",1,eens,0,irresponsible,"3,4,2",clothing,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,45.0,56.0,90.0,70.0,ja
+1579177886,2/21/2018 14:47:01,3392213439,2/21/2018 14:44:51,False,neodev,0.6689,44328916,GBR,0,0,0,0,,"boos
+ontevreden
+bezorgd
+verdrietig","tevreden
+blij
+opgewonden","boos
+ontevreden
+bezorgd
+verdrietig","2,1,3",1,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,22.0,20.0,31.0,14.0,nee
+1579177886,2/21/2018 15:20:18,3392294246,2/21/2018 15:11:55,False,elite,0.7164,44213975,USA,0,0,0,0,,opgelucht,tevreden,tevreden,"3,1,2",3,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,12.0,15.0,403.0,20.0,ja
+1579177886,2/21/2018 15:26:42,3392305477,2/21/2018 15:19:19,False,elite,0.645,44277267,USA,0,0,0,0,,verdrietig,bezorgd,verdrietig,"1,3,2",0,eens,0,nointerest,"3,4,2",clothing,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,74.0,33.0,181.0,26.0,nee
+1579177886,2/21/2018 15:30:56,3392314312,2/21/2018 15:28:55,False,elite,0.7193,44260929,USA,0,0,0,0,,beschaamd,tevreden,bezorgd,"1,2,3",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,15.0,11.0,36.0,7.0,nee
+1579177886,2/21/2018 15:40:22,3392342720,2/21/2018 15:38:51,False,prodege,0.7494,1889141,USA,0,0,0,0,,bezorgd,tevreden,tevreden,"3,1,2",1,eens,0,"irresponsible
+nointerest","4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,12.0,10.0,29.0,19.0,ja
+1579177886,2/21/2018 15:59:49,3392418563,2/21/2018 15:57:43,False,prodege,0.6363,2373506,USA,0,0,0,0,,opgelucht,verdrietig,verdrietig,"2,3,1",1,eens,0,irresponsible,"3,4,2",electronics,weetniet,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,34.0,19.0,24.0,19.0,weetniet
+1579177886,2/21/2018 16:04:52,3392445145,2/21/2018 16:01:42,False,vivatic,0.6518,19526833,GBR,0,0,0,0,I hadn't understood the first purchase - I could see there was a discrepancy in the amounts - but didn't realise I didn't have enough money.  It was made most clear in the second purchase.,weetniet,bezorgd,weetniet,"3,2,1",0,oneens,0,irresponsible,"2,4,3",clothing,eens,cancel4,submit2,cancel3,3.0,2.0,4.0,"0,2,1",0,38.0,38.0,31.0,18.0,ja
+1579177886,2/21/2018 16:10:07,3392474359,2/21/2018 16:06:48,False,elite,0.7107,44152442,USA,0,0,0,0,None,blij,tevreden,tevreden,"3,2,1",4,eens,0,nointerest,"3,2,4",electronics,eens,submit4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,26.0,28.0,47.0,55.0,ja
+1579177886,2/21/2018 16:13:42,3392491804,2/21/2018 16:10:28,False,prodege,0.7516,16187829,GBR,0,0,0,0,,bezorgd,tevreden,bezorgd,"3,1,2",3,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,submit3,2.0,3.0,4.0,"2,0,1",0,72.0,24.0,32.0,27.0,ja
+1579177886,2/21/2018 16:19:04,3392506650,2/21/2018 16:16:59,False,instagc,0.7244,26024737,GBR,0,0,0,0,,tevreden,tevreden,blij,"3,2,1",0,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,cancel2,submit3,3.0,2.0,4.0,"0,2,1",0,20.0,13.0,56.0,12.0,ja
+1579177886,2/21/2018 16:29:01,3392529888,2/21/2018 16:23:30,False,fusioncash,0.7641,44180706,USA,0,0,0,0,no,tevreden,tevreden,tevreden,"3,2,1",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,73.0,56.0,109.0,21.0,ja
+1579177886,2/21/2018 17:45:23,3392786868,2/21/2018 17:42:21,False,clixsense,0.7639,6645897,USA,0,0,0,0,Why was the purchase price different from the debit amount?,opgelucht,tevreden,opgelucht,"2,3,1",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,20.0,34.0,21.0,23.0,ja
+1579177886,2/21/2018 18:50:37,3393008130,2/21/2018 18:48:50,False,prodege,0.7015,28776776,USA,0,0,0,0,no,ontevreden,blij,bezorgd,"1,3,2",2,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,submit2,cancel3,4.0,3.0,2.0,"1,0,2",0,16.0,12.0,20.0,36.0,weetniet
+1579177886,2/21/2018 21:27:05,3393538478,2/21/2018 21:25:21,False,prodege,0.7144,13342404,CAN,0,0,0,0,thought provoking,verdrietig,"blij
+opgewonden",tevreden,"2,3,1",3,eens,0,nointerest,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,22.0,19.0,16.0,18.0,ja
+1579177886,2/21/2018 21:35:28,3393567371,2/21/2018 21:30:50,False,elite,0.7015,30898464,USA,0,0,0,0,,bezorgd,ontevreden,ontevreden,"3,2,1",3,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,56.0,48.0,49.0,59.0,nee
+1579177886,2/21/2018 22:18:52,3393727004,2/21/2018 22:12:17,False,elite,0.6839,44038546,USA,0,0,0,0,good,verdrietig,tevreden,tevreden,"1,3,2",0,eens,0,irresponsible,"2,3,4",clothing,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,12.0,4.0,280.0,39.0,nee
+1579177886,2/21/2018 22:44:11,3393796952,2/21/2018 22:39:46,False,elite,0.7554,43847341,USA,0,0,0,0,,verdrietig,ontevreden,ontevreden,"1,3,2",0,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,7.0,45.0,185.0,7.0,ja
+1579177886,2/21/2018 22:53:21,3393821341,2/21/2018 22:42:41,False,neodev,0.6843,44013179,USA,0,0,0,0,The purchase could not be made due to not having enough balance for it,beschaamd,verdrietig,verdrietig,"3,1,2",2,eens,0,nointerest,"2,3,4",clothing,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,47.0,106.0,153.0,86.0,ja
+1579177886,2/21/2018 23:03:15,3393853439,2/21/2018 23:01:24,False,prodege,0.7105,42490908,USA,0,0,0,0,I feel like this would upset me more than seeing an empty wallet. I would be very let down.,verdrietig,blij,beschaamd,"3,1,2",1,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,24.0,15.0,14.0,15.0,weetniet
+1579177886,2/22/2018 00:35:05,3394120883,2/22/2018 00:32:56,False,neodev,0.7576,44108545,USA,0,0,0,0,,verdrietig,tevreden,tevreden,"1,2,3",2,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,submit3,4.0,2.0,3.0,"0,1,2",0,8.0,3.0,19.0,70.0,ja
+1579177886,2/22/2018 02:32:05,3394491246,2/22/2018 02:26:47,False,neodev,0.7143,18137958,USA,0,0,0,0,no,beschaamd,weetniet,"tevreden
+blij","2,3,1",2,eens,0,nointerest,"2,3,4",electronics,eens,cancel4,cancel2,submit3,4.0,2.0,3.0,"0,1,2",0,51.0,49.0,89.0,53.0,ja
+1579177886,2/22/2018 02:56:12,3394573395,2/22/2018 02:53:05,False,elite,0.6649,44263341,USA,0,0,0,0,Acknowledging the difference between wants and needs helps to better appropriate your finances.,"ontevreden
+bezorgd
+verdrietig
+beschaamd
+schuldig",schuldig,"bezorgd
+beschaamd","2,3,1",0,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,18.0,22.0,33.0,29.0,ja
+1579177886,2/22/2018 02:58:06,3394580066,2/22/2018 02:55:08,False,keeprewarding,0.6625,41219167,USA,0,0,0,0,"please proof the quiz better, it was full of typos!!",weetniet,"blij
+opgewonden",opgewonden,"3,2,1",2,eens,0,nointerest,"4,2,3",tickets,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,24.0,27.0,25.0,33.0,ja
+1579177886,2/22/2018 03:47:15,3394666833,2/22/2018 03:43:10,False,prodege,0.7133,24403612,USA,0,0,0,0,,beschaamd,weetniet,weetniet,"3,1,2",3,eens,0,irresponsible,"2,4,3",clothing,eens,cancel4,cancel2,cancel3,3.0,2.0,4.0,"0,2,1",0,32.0,9.0,18.0,150.0,ja
+1579177886,2/22/2018 10:49:39,3395813142,2/22/2018 10:39:01,False,instagc,0.7053,37666276,USA,0,0,0,0,It was interesting to know that this could possibility be a tool used during online shopping in the future.,ontevreden,weetniet,"tevreden
+blij","1,2,3",1,eens,0,irresponsible,"4,2,3",tickets,eens,cancel4,cancel2,submit3,3.0,4.0,2.0,"1,2,0",0,100.0,92.0,114.0,185.0,ja
+1579177886,2/22/2018 13:38:06,3396330894,2/22/2018 13:31:34,False,prodege,0.6285,43653150,USA,0,0,0,0,No I like this task,"ontevreden
+beschaamd",opgelucht,"beschaamd
+schuldig","1,2,3",4,eens,0,irresponsible,"2,3,4",tickets,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,36.0,40.0,72.0,57.0,nee
+1579177886,2/22/2018 14:08:50,3396430889,2/22/2018 14:07:13,False,elite,0.691,43887653,CAN,0,0,0,0,,tevreden,tevreden,tevreden,"3,2,1",1,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,11.0,19.0,26.0,9.0,nee
+1579177886,2/22/2018 14:28:16,3396490662,2/22/2018 14:26:16,False,prodege,0.7164,2438945,USA,0,0,0,0,,"ontevreden
+verdrietig","boos
+ontevreden
+verdrietig","ontevreden
+verdrietig","2,3,1",3,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,33.0,24.0,14.0,29.0,ja
+1579177886,2/22/2018 14:54:25,3396578361,2/22/2018 14:51:23,False,neodev,0.7502,44340010,USA,0,0,0,0,,verdrietig,boos,verdrietig,"3,2,1",0,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,cancel2,cancel3,4.0,2.0,3.0,"0,1,2",0,8.0,5.0,11.0,6.0,ja
+1579177886,2/22/2018 15:24:26,3396671146,2/22/2018 15:19:37,False,neodev,0.6266,33262792,GBR,0,0,0,0,,bezorgd,opgewonden,schuldig,"3,1,2",2,eens,0,nointerest,"2,4,3",tickets,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,33.0,115.0,67.0,6.0,nee
+1579177886,2/22/2018 15:34:53,3396705902,2/22/2018 15:33:08,False,elite,0.6832,44306048,USA,0,0,0,0,,verdrietig,"tevreden
+blij",tevreden,"3,1,2",2,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,18.0,26.0,16.0,13.0,nee
+1579177886,2/22/2018 17:31:33,3397098529,2/22/2018 17:30:14,False,prodege,0.725,1855113,USA,0,0,0,0,,opgelucht,"tevreden
+opgewonden",opgelucht,"1,2,3",3,eens,0,"irresponsible
+nointerest","3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,14.0,15.0,11.0,12.0,ja
+1579177886,2/22/2018 19:02:11,3397408313,2/22/2018 18:58:33,False,instagc,0.7587,22419688,USA,0,0,0,0,no,ontevreden,ontevreden,ontevreden,"1,3,2",1,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,42.0,41.0,27.0,67.0,ja
+1579177886,2/22/2018 20:23:44,3397828648,2/22/2018 20:22:23,False,elite,0.7569,44242038,USA,0,0,0,0,Thank You,ontevreden,tevreden,ontevreden,"2,3,1",2,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,13.0,14.0,20.0,10.0,ja
+1579177886,2/22/2018 20:56:09,3397942848,2/22/2018 20:51:56,False,prodege,0.74,28592189,CAN,0,0,0,0,,opgelucht,ontevreden,tevreden,"1,2,3",4,eens,0,irresponsible,"4,2,3",electronics,eens,cancel4,cancel2,cancel3,3.0,4.0,2.0,"1,2,0",0,47.0,37.0,54.0,65.0,ja
+1579177886,2/22/2018 22:49:30,3398234793,2/22/2018 22:46:39,False,prodege,0.7490000000000001,32472208,GBR,0,0,0,0,"Its a clever idea, letting you know what you have bought in the past and how much spent would also be useful","verdrietig
+beschaamd",opgewonden,"ontevreden
+verdrietig","3,2,1",1,eens,0,irresponsible,"2,3,4",electronics,eens,cancel4,submit2,cancel3,4.0,2.0,3.0,"0,1,2",0,17.0,49.0,26.0,23.0,ja
+1579177886,2/22/2018 23:07:32,3398283377,2/22/2018 23:05:13,False,elite,0.6958,44103447,USA,0,0,0,0,NONE,ontevreden,ontevreden,bezorgd,"3,2,1",1,eens,0,irresponsible,"4,3,2",electronics,oneens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,20.0,9.0,44.0,15.0,ja
+1579177886,2/22/2018 23:21:46,3398318131,2/22/2018 23:20:54,False,elite,0.7435,44318239,USA,0,0,0,0,,"ontevreden
+verdrietig","ontevreden
+verdrietig","ontevreden
+verdrietig","2,1,3",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,3.0,6.0,10.0,7.0,ja
+1579177886,2/22/2018 23:25:55,3398328259,2/22/2018 23:17:31,False,elite,0.7357,44295335,USA,0,0,0,0,,ontevreden,ontevreden,verdrietig,"2,3,1",1,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,5.0,5.0,473.0,3.0,ja
+1579177886,2/23/2018 00:34:45,3398576845,2/23/2018 00:33:24,False,bitcoinget,0.7190000000000001,43847796,USA,0,0,0,0,,tevreden,blij,tevreden,"2,1,3",3,eens,0,nointerest,"3,4,2",electronics,eens,cancel4,submit2,cancel3,2.0,3.0,4.0,"2,0,1",0,8.0,15.0,12.0,13.0,ja
+1579177886,2/23/2018 00:47:42,3398628934,2/23/2018 00:40:27,False,bitcoinget,0.6723,44031704,USA,0,0,0,0,,verdrietig,"opgelucht
+verdrietig","verdrietig
+beschaamd","3,1,2",3,eens,0,nointerest,"3,4,2",clothing,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,74.0,45.0,119.0,69.0,ja
+1579177886,2/23/2018 02:35:54,3399064605,2/23/2018 02:33:10,False,gifthunterclub,0.7142,43811734,USA,0,0,0,0,,"boos
+ontevreden
+bezorgd
+verdrietig
+beschaamd","ontevreden
+bezorgd","ontevreden
+verdrietig","2,1,3",0,eens,0,irresponsible,"3,2,4",electronics,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,6.0,12.0,33.0,5.0,ja
+1579177886,2/23/2018 02:36:35,3399067318,2/23/2018 02:34:04,False,prodege,0.7517,35087810,USA,0,0,0,0,,ontevreden,verdrietig,weetniet,"1,2,3",2,eens,0,irresponsible,"3,4,2",electronics,eens,cancel4,cancel2,cancel3,2.0,3.0,4.0,"2,0,1",0,18.0,28.0,28.0,17.0,ja
+1579177886,2/23/2018 03:34:02,3399232698,2/23/2018 03:32:20,False,elite,0.6886,44039331,USA,0,0,0,0,good,verdrietig,tevreden,tevreden,"3,1,2",0,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,8.0,9.0,55.0,5.0,nee
+1579177886,2/23/2018 03:44:36,3399250406,2/23/2018 03:36:21,False,clixsense,0.7654,6342161,CAN,0,0,0,0,If I do not have the money to pay for something I want or need I will manage to save the amount require to pay for it,opgelucht,tevreden,opgelucht,"2,1,3",1,eens,0,irresponsible,"4,3,2",electronics,eens,cancel4,cancel2,cancel3,2.0,4.0,3.0,"2,1,0",0,112.0,63.0,55.0,96.0,ja
+1579177886,2/23/2018 03:56:55,3399270977,2/23/2018 03:51:05,False,elite,0.7526,44234166,USA,0,0,0,0,,verdrietig,blij,"tevreden
+blij","2,3,1",0,eens,0,irresponsible,"2,4,3",electronics,eens,cancel4,submit2,submit3,3.0,2.0,4.0,"0,2,1",0,41.0,60.0,103.0,40.0,ja
+1579177886,2/23/2018 04:30:08,3399326230,2/23/2018 04:27:58,False,instagc,0.737,18386513,USA,0,0,0,0,None,ontevreden,ontevreden,ontevreden,"2,3,1",1,eens,0,irresponsible,"3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,21.0,23.0,29.0,21.0,ja
+1579177886,2/23/2018 04:51:27,3399364212,2/23/2018 04:49:23,False,instagc,0.7178,34554100,USA,0,0,0,0,,verdrietig,tevreden,weetniet,"1,2,3",1,eens,0,nvt,"3,2,4",electronics,eens,submit4,submit2,submit3,4.0,3.0,2.0,"1,0,2",0,29.0,15.0,17.0,34.0,ja
+1579177886,2/23/2018 07:44:42,3399560579,2/23/2018 07:42:34,False,instagc,0.6773,30145358,CAN,0,0,0,0,,"tevreden
+verdrietig
+beschaamd",opgelucht,"tevreden
+opgelucht","1,2,3",4,eens,0,"irresponsible
+nointerest","3,2,4",clothing,eens,cancel4,cancel2,cancel3,4.0,3.0,2.0,"1,0,2",0,21.0,16.0,20.0,25.0,ja
+1579177886,2/23/2018 08:51:43,3399657611,2/23/2018 08:48:47,False,elite,0.6875,44037117,USA,0,0,0,0,good,verdrietig,blij,tevreden,"3,2,1",0,eens,0,irresponsible,"4,2,3",clothing,eens,cancel4,submit2,submit3,3.0,4.0,2.0,"1,2,0",0,6.0,9.0,118.0,6.0,nee
